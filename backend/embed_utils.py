@@ -4,17 +4,11 @@ import numpy as np
 import faiss
 import requests
 
-# --------------------------
-# Embedding Configuration
-# --------------------------
 HF_MODEL = "sentence-transformers/all-MiniLM-L6-v2"
-HF_TOKEN = os.getenv("HF_TOKEN")  # Set this in Render environment variables
+HF_TOKEN = os.getenv("HF_TOKEN") 
 HF_API_URL = f"https://router.huggingface.co/hf-inference/models/{HF_MODEL}"
 HEADERS = {"Authorization": f"Bearer {HF_TOKEN}"} if HF_TOKEN else {}
 
-# --------------------------
-# Embedding Function (Hugging Face API)
-# --------------------------
 def get_embeddings(texts):
     """
     Generate embeddings for a list of texts using Hugging Face's Inference API.
@@ -22,12 +16,12 @@ def get_embeddings(texts):
     """
 
     if not HF_TOKEN:
-        raise ValueError("❌ Missing HF_TOKEN environment variable. Please set it in Render.")
+        raise ValueError(" Missing HF_TOKEN environment variable. Please set it in Render.")
 
     if isinstance(texts, str):
         texts = [texts]
 
-    print(f"🔗 Generating embeddings using Hugging Face model: {HF_MODEL}")
+    print(f" Generating embeddings using Hugging Face model: {HF_MODEL}")
 
     all_vecs = []
 
@@ -48,7 +42,7 @@ def get_embeddings(texts):
             )
 
             if response.status_code != 200:
-                print("❌ Hugging Face API Error:", response.text)
+                print(" Hugging Face API Error:", response.text)
                 raise Exception(f"HF API error {response.status_code}: {response.text}")
 
             vec = np.array(response.json(), dtype="float32")
@@ -58,21 +52,15 @@ def get_embeddings(texts):
 
     return np.vstack(all_vecs)
 
-# --------------------------
-# FAISS Index Functions
-# --------------------------
 def load_or_build_index(index_path, meta_path):
     if os.path.exists(index_path) and os.path.exists(meta_path):
         index = faiss.read_index(index_path)
         meta = json.load(open(meta_path, "r", encoding="utf-8"))
-        print("✅ FAISS index and metadata loaded successfully.")
+        print(" FAISS index and metadata loaded successfully.")
         return index, meta
-    print("⚠️ No existing FAISS index found.")
+    print(" No existing FAISS index found.")
     return None, None
 
-# --------------------------
-# Semantic Search
-# --------------------------
 def semantic_search(index, meta, queries, topk=10):
     q_emb = get_embeddings(queries)
     q_emb = q_emb / np.linalg.norm(q_emb, axis=1, keepdims=True)
@@ -87,9 +75,6 @@ def semantic_search(index, meta, queries, topk=10):
         results.append(items)
     return results
 
-# --------------------------
-# LLM Reranking (Groq API)
-# --------------------------
 def llm_rerank(query, docs, topk=10):
     api_key = os.getenv("GROQ_API_KEY")
     if not api_key:
@@ -101,7 +86,7 @@ def llm_rerank(query, docs, topk=10):
         prompt += f"{i}. {d.get('title', d.get('name', ''))}\n"
     prompt += "\nReturn the top 10 document numbers as a JSON list."
 
-    print("⚙️ Calling Groq LLM for reranking...")
+    print(" Calling Groq LLM for reranking...")
 
     r = requests.post(
         "https://api.groq.com/openai/v1/chat/completions",
