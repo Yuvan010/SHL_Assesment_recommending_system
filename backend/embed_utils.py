@@ -5,7 +5,7 @@ import faiss
 import requests
 
 def get_embeddings(texts):
-    api_key = os.getenv("HF_API_KEY")
+    api_key = os.getenv("HF_TOKEN")
     if not api_key:
         raise ValueError("Missing HF_API_KEY environment variable.")
     
