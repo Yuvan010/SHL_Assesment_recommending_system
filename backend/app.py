@@ -2,7 +2,9 @@
 from flask import Flask, request, jsonify, send_from_directory, send_file
 import os
 import csv
-from backend.embed_utils import get_embeddings, semantic_search, load_or_build_index, llm_rerank
+import sys
+sys.path.append(os.path.dirname(os.path.abspath(__file__)))
+from embed_utils import get_embeddings, semantic_search, load_or_build_index, llm_rerank
 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 app = Flask(__name__, static_folder=os.path.join(BASE_DIR, "static"))
