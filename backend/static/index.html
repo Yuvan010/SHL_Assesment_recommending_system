@@ -1,0 +1,187 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>SHL Assessment Recommender</title>
+  <style>
+    body {
+      font-family: "Segoe UI", Tahoma, sans-serif;
+      background: #f4f6f8;
+      margin: 0;
+      padding: 0;
+      color: #222;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      min-height: 100vh;
+    }
+
+    .container {
+      margin-top: 60px;
+      background: #fff;
+      padding: 30px 40px;
+      border-radius: 14px;
+      box-shadow: 0 8px 20px rgba(0, 0, 0, 0.08);
+      width: 90%;
+      max-width: 750px;
+    }
+
+    h2 {
+      text-align: center;
+      margin-bottom: 25px;
+      color: #1e1e1e;
+      font-size: 26px;
+    }
+
+    .search-bar {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      gap: 10px;
+      flex-wrap: wrap;
+    }
+
+    input {
+      flex: 1;
+      padding: 12px 14px;
+      border-radius: 8px;
+      border: 1px solid #ccc;
+      font-size: 16px;
+      outline: none;
+      transition: all 0.3s ease;
+    }
+
+    input:focus {
+      border-color: #0078ff;
+      box-shadow: 0 0 4px rgba(0, 120, 255, 0.3);
+    }
+
+    button {
+      padding: 12px 16px;
+      border: none;
+      border-radius: 8px;
+      background: #0078ff;
+      color: white;
+      font-weight: 600;
+      cursor: pointer;
+      transition: 0.3s ease;
+    }
+
+    button:hover {
+      background: #005fcc;
+    }
+
+    #output {
+      margin-top: 25px;
+    }
+
+    .card {
+      margin-bottom: 14px;
+      padding: 16px;
+      background: #fff;
+      border: 1px solid #e0e0e0;
+      border-radius: 12px;
+      box-shadow: 0 2px 6px rgba(0, 0, 0, 0.06);
+    }
+
+    .card a {
+      text-decoration: none;
+      color: #0078ff;
+      font-weight: 600;
+      display: block;
+      font-size: 16px;
+      margin-bottom: 6px;
+      word-wrap: break-word;
+    }
+
+    .card a:hover {
+      text-decoration: underline;
+    }
+
+    .small {
+      color: #555;
+      font-size: 14px;
+    }
+
+    .button-group {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      gap: 10px;
+      margin-top: 15px;
+      flex-wrap: wrap;
+    }
+
+    @media (max-width: 600px) {
+      .container {
+        padding: 20px;
+      }
+      .search-bar {
+        flex-direction: column;
+      }
+      .button-group {
+        flex-direction: column;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h2> SHL Assessment Recommender</h2>
+
+    <div class="search-bar">
+      <input id="query" placeholder="e.g. logical reasoning assessment" />
+      <button onclick="getRecommendation()">Search</button>
+      <button style="background: #28a745;" onclick="downloadCSV()">⬇ Download CSV</button>
+    </div>
+
+    <div id="output"></div>
+  </div>
+
+  <script>
+    async function getRecommendation() {
+      const query = document.getElementById("query").value.trim();
+      const output = document.getElementById("output");
+
+      if (!query) return alert("Please enter a query first!");
+      output.innerHTML = "<p>Fetching recommendations...</p>";
+
+      try {
+        const res = await fetch("/recommend", {
+          method: "POST",
+          headers: { "Content-Type": "application/json" },
+          body: JSON.stringify({ queries: [query] }),
+        });
+
+        if (!res.ok) throw new Error(`HTTP ${res.status}`);
+        const data = await res.json();
+
+        if (data.recommended_assessments?.length) {
+          const items = data.recommended_assessments;
+          output.innerHTML = items
+            .map((item) => {
+              const type = item.test_type?.join(", ") || "General";
+              return `
+                <div class="card">
+                  <a href="${item.url}" target="_blank">${item.url}</a>
+                  <div class="small">${type}</div>
+                </div>
+              `;
+            })
+            .join("");
+        } else {
+          output.innerHTML = "<p>No results found.</p>";
+        }
+      } catch (err) {
+        console.error("Fetch error:", err);
+        output.innerHTML = "<p style='color:red;'>Error fetching results. Check console.</p>";
+      }
+    }
+
+    function downloadCSV() {
+      window.location.href = "/download_csv";
+    }
+  </script>
+</body>
+</html>

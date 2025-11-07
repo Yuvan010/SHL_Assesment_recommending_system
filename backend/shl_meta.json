@@ -1,0 +1,791 @@
+[
+  {
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/automata-fix-new/",
+    "name": "I am hiring for Java developers who can also collaborate effectively with my business teams. Looking for an assessment(s) that can be completed in 40 minutes.",
+    "description": "Automata - Fix (New): A simulated compiler integrated test to measure debugging skills in C, C++ and Java. The test checks the ability to fix logical or syntactical errors and to…",
+    "adaptive_support": "No",
+    "remote_support": "Yes",
+    "duration": null,
+    "test_type": [
+      "Knowledge & Skills",
+      "Personality & Behaviour",
+      "Cognitive Ability"
+    ]
+  },
+  {
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/core-java-entry-level-new/",
+    "name": "I am hiring for Java developers who can also collaborate effectively with my business teams. Looking for an assessment(s) that can be completed in 40 minutes.",
+    "description": "Core Java (Entry Level) (New): Multi-choice test that measures the knowledge of basic Java constructs, OOP concepts, file handling, exception handling, threads, generic class and inner class.",
+    "adaptive_support": "No",
+    "remote_support": "Yes",
+    "duration": null,
+    "test_type": [
+      "Knowledge & Skills",
+      "Personality & Behaviour"
+    ]
+  },
+  {
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/java-8-new/",
+    "name": "I am hiring for Java developers who can also collaborate effectively with my business teams. Looking for an assessment(s) that can be completed in 40 minutes.",
+    "description": "Java 8 (New): Multi-choice test that measures the knowledge of Java class design, exceptions, generics, collections, concurrency, JDBC and Java I/O fundamentals.",
+    "adaptive_support": "No",
+    "remote_support": "Yes",
+    "duration": null,
+    "test_type": [
+      "Knowledge & Skills",
+      "Personality & Behaviour"
+    ]
+  },
+  {
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/core-java-advanced-level-new/",
+    "name": "I am hiring for Java developers who can also collaborate effectively with my business teams. Looking for an assessment(s) that can be completed in 40 minutes.",
+    "description": "Core Java (Advanced Level) (New): Multi-choice test that measures the knowledge of basic Java constructs, OOP concepts, files and exception handling, and advanced Java concepts like generics…",
+    "adaptive_support": "No",
+    "remote_support": "Yes",
+    "duration": null,
+    "test_type": [
+      "Knowledge & Skills",
+      "Personality & Behaviour"
+    ]
+  },
+  {
+    "url": "https://www.shl.com/products/product-catalog/view/interpersonal-communications/",
+    "name": "I am hiring for Java developers who can also collaborate effectively with my business teams. Looking for an assessment(s) that can be completed in 40 minutes.",
+    "description": "Interpersonal Communications: This adaptive test measures the candidate's knowledge of how to employ effective verbal and non-verbal communication to send his or her message and manage…",
+    "adaptive_support": "No",
+    "remote_support": "Yes",
+    "duration": null,
+    "test_type": [
+      "Knowledge & Skills",
+      "Personality & Behaviour"
+    ]
+  },
+  {
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/entry-level-sales-7-1/",
+    "name": "I want to hire new graduates for a sales role in my company, the budget is for about an hour for each test. Give me some options",
+    "description": "Entry level Sales 7.1 (International): The Entry Level Sales 7.1 Solution is for entry-level positions in which employees proactively sell products or services to customers and have their…",
+    "adaptive_support": "No",
+    "remote_support": "Yes",
+    "duration": null,
+    "test_type": [
+      "Knowledge & Skills",
+      "Personality & Behaviour"
+    ]
+  },
+  {
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/entry-level-sales-sift-out-7-1/",
+    "name": "I want to hire new graduates for a sales role in my company, the budget is for about an hour for each test. Give me some options",
+    "description": "Entry Level Sales Sift Out 7.1: The Entry Level Sales Sift Out 7.1 Solution is for entry-level positions in which employees proactively sell products or services to customers and have their…",
+    "adaptive_support": "No",
+    "remote_support": "Yes",
+    "duration": null,
+    "test_type": [
+      "Knowledge & Skills",
+      "Personality & Behaviour"
+    ]
+  },
+  {
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/entry-level-sales-solution/",
+    "name": "I want to hire new graduates for a sales role in my company, the budget is for about an hour for each test. Give me some options",
+    "description": "Entry Level Sales Solution: The Precise Fit Entry Level Sales Roles Solution is for entry-level positions in which employees proactively sell products or services to customers and have…",
+    "adaptive_support": "No",
+    "remote_support": "Yes",
+    "duration": null,
+    "test_type": [
+      "Knowledge & Skills",
+      "Personality & Behaviour"
+    ]
+  },
+  {
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/sales-representative-solution/",
+    "name": "I want to hire new graduates for a sales role in my company, the budget is for about an hour for each test. Give me some options",
+    "description": "Sales Representative Solution: The Sales Representative solution is for entry-level sales positions in which employees proactively sell products to customers and have their pay and/or…",
+    "adaptive_support": "No",
+    "remote_support": "Yes",
+    "duration": null,
+    "test_type": [
+      "Knowledge & Skills",
+      "Personality & Behaviour"
+    ]
+  },
+  {
+    "url": "https://www.shl.com/products/product-catalog/view/business-communication-adaptive/",
+    "name": "I want to hire new graduates for a sales role in my company, the budget is for about an hour for each test. Give me some options",
+    "description": "Business Communication (adaptive): This is an adaptive test that measures knowledge of communicating in the workplace. It measures the skills necessary to communicate effectively with coworkers…",
+    "adaptive_support": "No",
+    "remote_support": "Yes",
+    "duration": null,
+    "test_type": [
+      "Knowledge & Skills",
+      "Personality & Behaviour"
+    ]
+  },
+  {
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/technical-sales-associate-solution/",
+    "name": "I want to hire new graduates for a sales role in my company, the budget is for about an hour for each test. Give me some options",
+    "description": "Technical Sales Associate Solution: The Technical Sales Associate solution is for entry-level retail positions in which employees proactively sell a specific line of products that requires…",
+    "adaptive_support": "No",
+    "remote_support": "Yes",
+    "duration": null,
+    "test_type": [
+      "Knowledge & Skills",
+      "Personality & Behaviour"
+    ]
+  },
+  {
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/svar-spoken-english-indian-accent-new/",
+    "name": "I want to hire new graduates for a sales role in my company, the budget is for about an hour for each test. Give me some options",
+    "description": "SVAR - Spoken English (Indian Accent)  (New): An automated spoken English test that measures fluency, pronunciation, active listening, vocabulary, grammar and spoken English understanding.     Your use of…",
+    "adaptive_support": "No",
+    "remote_support": "Yes",
+    "duration": null,
+    "test_type": [
+      "Knowledge & Skills",
+      "Personality & Behaviour"
+    ]
+  },
+  {
+    "url": "https://www.shl.com/products/product-catalog/view/interpersonal-communications/",
+    "name": "I want to hire new graduates for a sales role in my company, the budget is for about an hour for each test. Give me some options",
+    "description": "Interpersonal Communications: This adaptive test measures the candidate's knowledge of how to employ effective verbal and non-verbal communication to send his or her message and manage…",
+    "adaptive_support": "No",
+    "remote_support": "Yes",
+    "duration": null,
+    "test_type": [
+      "Knowledge & Skills",
+      "Personality & Behaviour"
+    ]
+  },
+  {
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/english-comprehension-new/",
+    "name": "I want to hire new graduates for a sales role in my company, the budget is for about an hour for each test. Give me some options",
+    "description": "English Comprehension (New): Multiple-choice test that measures vocabulary, grammar and reading comprehension skills.",
+    "adaptive_support": "No",
+    "remote_support": "Yes",
+    "duration": null,
+    "test_type": [
+      "Knowledge & Skills",
+      "Personality & Behaviour"
+    ]
+  },
+  {
+    "url": "https://www.shl.com/products/product-catalog/view/enterprise-leadership-report/",
+    "name": "I am looking for a COO for my company in China and I want to see if they are culturally a right fit for our company. Suggest me an assessment that they can complete in about an hour",
+    "description": "Enterprise Leadership Report 1.0: Assess and benchmark your leaders against enterprise leadership - the model for leader impact to drive business results in a complex work environment.  For…",
+    "adaptive_support": "No",
+    "remote_support": "Yes",
+    "duration": null,
+    "test_type": [
+      "Knowledge & Skills",
+      "Personality & Behaviour"
+    ]
+  },
+  {
+    "url": "https://www.shl.com/products/product-catalog/view/occupational-personality-questionnaire-opq32r/",
+    "name": "I am looking for a COO for my company in China and I want to see if they are culturally a right fit for our company. Suggest me an assessment that they can complete in about an hour",
+    "description": "Occupational Personality Questionnaire OPQ32r: The SHL Occupational Personality Questionnaire, the OPQ32, is one of the most widely used and respected measures of workplace behavioural style in the world…",
+    "adaptive_support": "No",
+    "remote_support": "Yes",
+    "duration": null,
+    "test_type": [
+      "Knowledge & Skills",
+      "Personality & Behaviour"
+    ]
+  },
+  {
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/opq-leadership-report/",
+    "name": "I am looking for a COO for my company in China and I want to see if they are culturally a right fit for our company. Suggest me an assessment that they can complete in about an hour",
+    "description": "OPQ Leadership Report: This OPQ (Occupational Personality Questionnaire) report provides a detailed analysis of an individual's leadership potential.  It is based on SHL's leading…",
+    "adaptive_support": "No",
+    "remote_support": "Yes",
+    "duration": null,
+    "test_type": [
+      "Knowledge & Skills",
+      "Personality & Behaviour"
+    ]
+  },
+  {
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/opq-team-types-and-leadership-styles-report",
+    "name": "I am looking for a COO for my company in China and I want to see if they are culturally a right fit for our company. Suggest me an assessment that they can complete in about an hour",
+    "description": "OPQ Team Types and Leadership Styles Report: This OPQ (Occupational Personality Questionnaire) report is based on Belbin's team types and Bass's leadership and reporting styles.  Belbins team types…",
+    "adaptive_support": "No",
+    "remote_support": "Yes",
+    "duration": null,
+    "test_type": [
+      "Knowledge & Skills",
+      "Personality & Behaviour"
+    ]
+  },
+  {
+    "url": "https://www.shl.com/products/product-catalog/view/enterprise-leadership-report-2-0/",
+    "name": "I am looking for a COO for my company in China and I want to see if they are culturally a right fit for our company. Suggest me an assessment that they can complete in about an hour",
+    "description": "Enterprise Leadership Report 2.0: Assess and benchmark your leaders against enterprise leadership - the model for leader impact to drive business results in a complex work environment.  For…",
+    "adaptive_support": "No",
+    "remote_support": "Yes",
+    "duration": null,
+    "test_type": [
+      "Knowledge & Skills",
+      "Personality & Behaviour"
+    ]
+  },
+  {
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/global-skills-assessment/",
+    "name": "I am looking for a COO for my company in China and I want to see if they are culturally a right fit for our company. Suggest me an assessment that they can complete in about an hour",
+    "description": "Global Skills Assessment: The Global Skills Assessment (GSA) is an assessment used to measure 96 discrete skills/behaviors. These 96 skill scores are directly aligned to the most…",
+    "adaptive_support": "No",
+    "remote_support": "Yes",
+    "duration": null,
+    "test_type": [
+      "Knowledge & Skills",
+      "Personality & Behaviour"
+    ]
+  },
+  {
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/verify-verbal-ability-next-generation/",
+    "name": "KEY RESPONSIBITILES:\n\nManage the sound-scape of the station through appropriate creative and marketing interventions to Increase or Maintain the listenership\nActs as an interface between Programming & sales team, thereby supporting the sales team by providing creative inputs in order to increase the overall ad spends by clients\nBuild brand Mirchi by ideating fresh programming initiatives on air campaigns, programming led on-ground events & new properties to ensure brand differentiation & thus increase brand recall at station level\nInvest time in local RJs to grow & develop them as local celebrities\nThrough strong networking, must focus on identifying the best of local talent and ensure to bring the creative minds from the market on board with Mirchi\nBuild radio as a category for both listeners & advertisers\nPeople Management\nIdentifying the right talent and investing time in developing them by frequent feedback on their performance\nMonitor, Coach and mentor team members on a regular basis\nDevelopment of Jocks as per guidelines\nMust have an eye to spot the local talent to fill up vacancies locally\n\n\n\n\nTECHNICAL SKILLS & QUALIFICATION REQUIRED:\n\nGraduation / Post Graduation (Any specialisation) with 8 -12 years of relevant experience\nExperience in digital content conceptualisation\nStrong branding focus\nMust be well-read in variety of areas and must keep up with the latest events in the city / cluster / country\nMust know to read, write & speak English \n\n\nPERSONAL ATTRIBUTES:\n\nExcellent communication skills\nGood interpersonal skills\nPeople management\n\n\nSuggest me some tests for the above jd. The duration should be at most 90 mins",
+    "description": "Verify - Verbal Ability - Next Generation: The Verbal Ability test measures the ability to read written passages and comprehend the text, interpret tone and author intent, identify main ideas, and…",
+    "adaptive_support": "No",
+    "remote_support": "Yes",
+    "duration": 15,
+    "test_type": [
+      "Knowledge & Skills",
+      "Personality & Behaviour"
+    ]
+  },
+  {
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/shl-verify-interactive-inductive-reasoning/",
+    "name": "KEY RESPONSIBITILES:\n\nManage the sound-scape of the station through appropriate creative and marketing interventions to Increase or Maintain the listenership\nActs as an interface between Programming & sales team, thereby supporting the sales team by providing creative inputs in order to increase the overall ad spends by clients\nBuild brand Mirchi by ideating fresh programming initiatives on air campaigns, programming led on-ground events & new properties to ensure brand differentiation & thus increase brand recall at station level\nInvest time in local RJs to grow & develop them as local celebrities\nThrough strong networking, must focus on identifying the best of local talent and ensure to bring the creative minds from the market on board with Mirchi\nBuild radio as a category for both listeners & advertisers\nPeople Management\nIdentifying the right talent and investing time in developing them by frequent feedback on their performance\nMonitor, Coach and mentor team members on a regular basis\nDevelopment of Jocks as per guidelines\nMust have an eye to spot the local talent to fill up vacancies locally\n\n\n\n\nTECHNICAL SKILLS & QUALIFICATION REQUIRED:\n\nGraduation / Post Graduation (Any specialisation) with 8 -12 years of relevant experience\nExperience in digital content conceptualisation\nStrong branding focus\nMust be well-read in variety of areas and must keep up with the latest events in the city / cluster / country\nMust know to read, write & speak English \n\n\nPERSONAL ATTRIBUTES:\n\nExcellent communication skills\nGood interpersonal skills\nPeople management\n\n\nSuggest me some tests for the above jd. The duration should be at most 90 mins",
+    "description": "SHL Verify Interactive - Inductive Reasoning: Evaluates ability to identify specific patterns in data or situations and generalize that information to broader contexts.",
+    "adaptive_support": "No",
+    "remote_support": "Yes",
+    "duration": null,
+    "test_type": [
+      "Knowledge & Skills",
+      "Personality & Behaviour",
+      "Cognitive Ability"
+    ]
+  },
+  {
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/marketing-new/",
+    "name": "KEY RESPONSIBITILES:\n\nManage the sound-scape of the station through appropriate creative and marketing interventions to Increase or Maintain the listenership\nActs as an interface between Programming & sales team, thereby supporting the sales team by providing creative inputs in order to increase the overall ad spends by clients\nBuild brand Mirchi by ideating fresh programming initiatives on air campaigns, programming led on-ground events & new properties to ensure brand differentiation & thus increase brand recall at station level\nInvest time in local RJs to grow & develop them as local celebrities\nThrough strong networking, must focus on identifying the best of local talent and ensure to bring the creative minds from the market on board with Mirchi\nBuild radio as a category for both listeners & advertisers\nPeople Management\nIdentifying the right talent and investing time in developing them by frequent feedback on their performance\nMonitor, Coach and mentor team members on a regular basis\nDevelopment of Jocks as per guidelines\nMust have an eye to spot the local talent to fill up vacancies locally\n\n\n\n\nTECHNICAL SKILLS & QUALIFICATION REQUIRED:\n\nGraduation / Post Graduation (Any specialisation) with 8 -12 years of relevant experience\nExperience in digital content conceptualisation\nStrong branding focus\nMust be well-read in variety of areas and must keep up with the latest events in the city / cluster / country\nMust know to read, write & speak English \n\n\nPERSONAL ATTRIBUTES:\n\nExcellent communication skills\nGood interpersonal skills\nPeople management\n\n\nSuggest me some tests for the above jd. The duration should be at most 90 mins",
+    "description": "Marketing (New): Multi-choice test that measures the conceptual knowledge of marketing principles, market research, consumer behavior, brand management, sales management…",
+    "adaptive_support": "No",
+    "remote_support": "Yes",
+    "duration": null,
+    "test_type": [
+      "Knowledge & Skills",
+      "Personality & Behaviour"
+    ]
+  },
+  {
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/english-comprehension-new/",
+    "name": "KEY RESPONSIBITILES:\n\nManage the sound-scape of the station through appropriate creative and marketing interventions to Increase or Maintain the listenership\nActs as an interface between Programming & sales team, thereby supporting the sales team by providing creative inputs in order to increase the overall ad spends by clients\nBuild brand Mirchi by ideating fresh programming initiatives on air campaigns, programming led on-ground events & new properties to ensure brand differentiation & thus increase brand recall at station level\nInvest time in local RJs to grow & develop them as local celebrities\nThrough strong networking, must focus on identifying the best of local talent and ensure to bring the creative minds from the market on board with Mirchi\nBuild radio as a category for both listeners & advertisers\nPeople Management\nIdentifying the right talent and investing time in developing them by frequent feedback on their performance\nMonitor, Coach and mentor team members on a regular basis\nDevelopment of Jocks as per guidelines\nMust have an eye to spot the local talent to fill up vacancies locally\n\n\n\n\nTECHNICAL SKILLS & QUALIFICATION REQUIRED:\n\nGraduation / Post Graduation (Any specialisation) with 8 -12 years of relevant experience\nExperience in digital content conceptualisation\nStrong branding focus\nMust be well-read in variety of areas and must keep up with the latest events in the city / cluster / country\nMust know to read, write & speak English \n\n\nPERSONAL ATTRIBUTES:\n\nExcellent communication skills\nGood interpersonal skills\nPeople management\n\n\nSuggest me some tests for the above jd. The duration should be at most 90 mins",
+    "description": "English Comprehension (New): Multiple-choice test that measures vocabulary, grammar and reading comprehension skills.",
+    "adaptive_support": "No",
+    "remote_support": "Yes",
+    "duration": null,
+    "test_type": [
+      "Knowledge & Skills",
+      "Personality & Behaviour"
+    ]
+  },
+  {
+    "url": "https://www.shl.com/products/product-catalog/view/interpersonal-communications/",
+    "name": "KEY RESPONSIBITILES:\n\nManage the sound-scape of the station through appropriate creative and marketing interventions to Increase or Maintain the listenership\nActs as an interface between Programming & sales team, thereby supporting the sales team by providing creative inputs in order to increase the overall ad spends by clients\nBuild brand Mirchi by ideating fresh programming initiatives on air campaigns, programming led on-ground events & new properties to ensure brand differentiation & thus increase brand recall at station level\nInvest time in local RJs to grow & develop them as local celebrities\nThrough strong networking, must focus on identifying the best of local talent and ensure to bring the creative minds from the market on board with Mirchi\nBuild radio as a category for both listeners & advertisers\nPeople Management\nIdentifying the right talent and investing time in developing them by frequent feedback on their performance\nMonitor, Coach and mentor team members on a regular basis\nDevelopment of Jocks as per guidelines\nMust have an eye to spot the local talent to fill up vacancies locally\n\n\n\n\nTECHNICAL SKILLS & QUALIFICATION REQUIRED:\n\nGraduation / Post Graduation (Any specialisation) with 8 -12 years of relevant experience\nExperience in digital content conceptualisation\nStrong branding focus\nMust be well-read in variety of areas and must keep up with the latest events in the city / cluster / country\nMust know to read, write & speak English \n\n\nPERSONAL ATTRIBUTES:\n\nExcellent communication skills\nGood interpersonal skills\nPeople management\n\n\nSuggest me some tests for the above jd. The duration should be at most 90 mins",
+    "description": "Interpersonal Communications: This adaptive test measures the candidate's knowledge of how to employ effective verbal and non-verbal communication to send his or her message and manage…",
+    "adaptive_support": "No",
+    "remote_support": "Yes",
+    "duration": null,
+    "test_type": [
+      "Knowledge & Skills",
+      "Personality & Behaviour"
+    ]
+  },
+  {
+    "url": "https://www.shl.com/products/product-catalog/view/english-comprehension-new/",
+    "name": "Content Writer required, expert in English and SEO.",
+    "description": "English Comprehension (New): Multiple-choice test that measures vocabulary, grammar and reading comprehension skills.",
+    "adaptive_support": "No",
+    "remote_support": "Yes",
+    "duration": null,
+    "test_type": [
+      "Knowledge & Skills",
+      "Personality & Behaviour"
+    ]
+  },
+  {
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/drupal-new/",
+    "name": "Content Writer required, expert in English and SEO.",
+    "description": "Drupal (New): Multi-choice test that measures the knowledge of Drupal setup, content management, user interface, module development and security.",
+    "adaptive_support": "No",
+    "remote_support": "Yes",
+    "duration": null,
+    "test_type": [
+      "Knowledge & Skills",
+      "Personality & Behaviour"
+    ]
+  },
+  {
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/written-english-v1/",
+    "name": "Content Writer required, expert in English and SEO.",
+    "description": "Written English v1: The Written English test measures knowledge of US English grammar and English reading comprehension. It is designed for those with English as a second language…",
+    "adaptive_support": "No",
+    "remote_support": "Yes",
+    "duration": null,
+    "test_type": [
+      "Knowledge & Skills",
+      "Personality & Behaviour"
+    ]
+  },
+  {
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/occupational-personality-questionnaire-opq32r/",
+    "name": "Content Writer required, expert in English and SEO.",
+    "description": "Occupational Personality Questionnaire OPQ32r: The SHL Occupational Personality Questionnaire, the OPQ32, is one of the most widely used and respected measures of workplace behavioural style in the world…",
+    "adaptive_support": "No",
+    "remote_support": "Yes",
+    "duration": null,
+    "test_type": [
+      "Knowledge & Skills",
+      "Personality & Behaviour"
+    ]
+  },
+  {
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/search-engine-optimization-new/",
+    "name": "Content Writer required, expert in English and SEO.",
+    "description": "Search Engine Optimization (New): Multi-choice test that measures the knowledge on the concepts of need of SEO, SEO planning, SEO strategies, SEO software, tools and exchanging links.",
+    "adaptive_support": "No",
+    "remote_support": "Yes",
+    "duration": null,
+    "test_type": [
+      "Knowledge & Skills",
+      "Personality & Behaviour"
+    ]
+  },
+  {
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/automata-selenium/",
+    "name": "Find me 1 hour long assesment for the below job at SHL\nJob Description\n\n Join a community that is shaping the future of work! SHL, People Science. People Answers. \n\nAre you a seasoned QA Engineer with a flair for innovation? Are you ready to shape the future of talent assessment and empower organizations to unlock their full potential? If so, we want you to be a part of the SHL Team! As a QA Engineer, you will be involved in creating and implementing software solutions that contribute to the development of our ground-breaking products.\n\nAn excellent benefit package is offered in a culture where career development, with ongoing manager guidance, collaboration, flexibility, diversity, and inclusivity are all intrinsic to our culture.  There is a huge investment in SHL currently so there’s no better time to become a part of something transformational.\n\nWhat You Will Be Doing\n\n Getting involved in engineering quality assurance and providing inputs when required. \n Create and develop test plans for various forms of testing. \n Conducts and/or participates in formal and informal test case reviews. \n Develop and initiate functional tests and regression tests. \n Rolling out improvements for testing and quality processes. \n\nEssential\n\n What we are looking for from you: \n\n Development experience – Java or JavaScript, CSS, HTML (Automation) \n Selenium WebDriver and page object design pattern (Automation) \n SQL server knowledge \n Test case management experience. \n Manual Testing \n\nDesirable\n\n Knowledge the basic concepts of testing \n Strong solution-finding experience \n Strong verbal and written communicator. \n\nGet In Touch\n\nFind out how this one-off opportunity can help you achieve your career goals by making an application to our knowledgeable and friendly Talent Acquisition team. Choose a new path with SHL.\n\n #CareersAtSHL #SHLHiringTalent \n\n#TechnologyJobs #QualityAssuranceJobs\n\n#CareerOpportunities #JobOpportunities \n\nAbout Us\n\nWe unlock the possibilities of businesses through the power of people, science and technology.\nWe started this industry of people insight more than 40 years ago and continue to lead the market with powerhouse product launches, ground-breaking science and business transformation.\nWhen you inspire and transform people’s lives, you will experience the greatest business outcomes possible. SHL’s products insights, experiences, and services can help achieve growth at scale.\n\nWhat SHL Can Offer You\n\nDiversity, equity, inclusion and accessibility are key threads in the fabric of SHL’s business and culture (find out more about DEI and accessibility at SHL )\nEmployee benefits package that takes care of you and your family.\nSupport, coaching, and on-the-job development to achieve career success\nA fun and flexible workplace where you’ll be inspired to do your best work (find out more LifeAtSHL )\nThe ability to transform workplaces around the world for others.\n\nSHL is an equal opportunity employer. We support and encourage applications from a diverse range of candidates. We can, and do make adjustments to make sure our recruitment process is as inclusive as possible.\n\nSHL is an equal opportunity employer.",
+    "description": "Automata Selenium: A coding simulation assessment that evaluates the ability to conduct tasks related to automation testing using Selenium scripts.",
+    "adaptive_support": "No",
+    "remote_support": "Yes",
+    "duration": null,
+    "test_type": [
+      "Knowledge & Skills",
+      "Personality & Behaviour"
+    ]
+  },
+  {
+    "url": "https://www.shl.com/products/product-catalog/view/professional-7-1-solution/",
+    "name": "Find me 1 hour long assesment for the below job at SHL\nJob Description\n\n Join a community that is shaping the future of work! SHL, People Science. People Answers. \n\nAre you a seasoned QA Engineer with a flair for innovation? Are you ready to shape the future of talent assessment and empower organizations to unlock their full potential? If so, we want you to be a part of the SHL Team! As a QA Engineer, you will be involved in creating and implementing software solutions that contribute to the development of our ground-breaking products.\n\nAn excellent benefit package is offered in a culture where career development, with ongoing manager guidance, collaboration, flexibility, diversity, and inclusivity are all intrinsic to our culture.  There is a huge investment in SHL currently so there’s no better time to become a part of something transformational.\n\nWhat You Will Be Doing\n\n Getting involved in engineering quality assurance and providing inputs when required. \n Create and develop test plans for various forms of testing. \n Conducts and/or participates in formal and informal test case reviews. \n Develop and initiate functional tests and regression tests. \n Rolling out improvements for testing and quality processes. \n\nEssential\n\n What we are looking for from you: \n\n Development experience – Java or JavaScript, CSS, HTML (Automation) \n Selenium WebDriver and page object design pattern (Automation) \n SQL server knowledge \n Test case management experience. \n Manual Testing \n\nDesirable\n\n Knowledge the basic concepts of testing \n Strong solution-finding experience \n Strong verbal and written communicator. \n\nGet In Touch\n\nFind out how this one-off opportunity can help you achieve your career goals by making an application to our knowledgeable and friendly Talent Acquisition team. Choose a new path with SHL.\n\n #CareersAtSHL #SHLHiringTalent \n\n#TechnologyJobs #QualityAssuranceJobs\n\n#CareerOpportunities #JobOpportunities \n\nAbout Us\n\nWe unlock the possibilities of businesses through the power of people, science and technology.\nWe started this industry of people insight more than 40 years ago and continue to lead the market with powerhouse product launches, ground-breaking science and business transformation.\nWhen you inspire and transform people’s lives, you will experience the greatest business outcomes possible. SHL’s products insights, experiences, and services can help achieve growth at scale.\n\nWhat SHL Can Offer You\n\nDiversity, equity, inclusion and accessibility are key threads in the fabric of SHL’s business and culture (find out more about DEI and accessibility at SHL )\nEmployee benefits package that takes care of you and your family.\nSupport, coaching, and on-the-job development to achieve career success\nA fun and flexible workplace where you’ll be inspired to do your best work (find out more LifeAtSHL )\nThe ability to transform workplaces around the world for others.\n\nSHL is an equal opportunity employer. We support and encourage applications from a diverse range of candidates. We can, and do make adjustments to make sure our recruitment process is as inclusive as possible.\n\nSHL is an equal opportunity employer.",
+    "description": "Professional + 7.1 (International): Our Professional + 7.1 solution is designed for all non-managerial professional individual contributor positions, and includes SHL’s new innovative…",
+    "adaptive_support": "No",
+    "remote_support": "Yes",
+    "duration": null,
+    "test_type": [
+      "Knowledge & Skills",
+      "Personality & Behaviour",
+      "Cognitive Ability"
+    ]
+  },
+  {
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/javascript-new/",
+    "name": "Find me 1 hour long assesment for the below job at SHL\nJob Description\n\n Join a community that is shaping the future of work! SHL, People Science. People Answers. \n\nAre you a seasoned QA Engineer with a flair for innovation? Are you ready to shape the future of talent assessment and empower organizations to unlock their full potential? If so, we want you to be a part of the SHL Team! As a QA Engineer, you will be involved in creating and implementing software solutions that contribute to the development of our ground-breaking products.\n\nAn excellent benefit package is offered in a culture where career development, with ongoing manager guidance, collaboration, flexibility, diversity, and inclusivity are all intrinsic to our culture.  There is a huge investment in SHL currently so there’s no better time to become a part of something transformational.\n\nWhat You Will Be Doing\n\n Getting involved in engineering quality assurance and providing inputs when required. \n Create and develop test plans for various forms of testing. \n Conducts and/or participates in formal and informal test case reviews. \n Develop and initiate functional tests and regression tests. \n Rolling out improvements for testing and quality processes. \n\nEssential\n\n What we are looking for from you: \n\n Development experience – Java or JavaScript, CSS, HTML (Automation) \n Selenium WebDriver and page object design pattern (Automation) \n SQL server knowledge \n Test case management experience. \n Manual Testing \n\nDesirable\n\n Knowledge the basic concepts of testing \n Strong solution-finding experience \n Strong verbal and written communicator. \n\nGet In Touch\n\nFind out how this one-off opportunity can help you achieve your career goals by making an application to our knowledgeable and friendly Talent Acquisition team. Choose a new path with SHL.\n\n #CareersAtSHL #SHLHiringTalent \n\n#TechnologyJobs #QualityAssuranceJobs\n\n#CareerOpportunities #JobOpportunities \n\nAbout Us\n\nWe unlock the possibilities of businesses through the power of people, science and technology.\nWe started this industry of people insight more than 40 years ago and continue to lead the market with powerhouse product launches, ground-breaking science and business transformation.\nWhen you inspire and transform people’s lives, you will experience the greatest business outcomes possible. SHL’s products insights, experiences, and services can help achieve growth at scale.\n\nWhat SHL Can Offer You\n\nDiversity, equity, inclusion and accessibility are key threads in the fabric of SHL’s business and culture (find out more about DEI and accessibility at SHL )\nEmployee benefits package that takes care of you and your family.\nSupport, coaching, and on-the-job development to achieve career success\nA fun and flexible workplace where you’ll be inspired to do your best work (find out more LifeAtSHL )\nThe ability to transform workplaces around the world for others.\n\nSHL is an equal opportunity employer. We support and encourage applications from a diverse range of candidates. We can, and do make adjustments to make sure our recruitment process is as inclusive as possible.\n\nSHL is an equal opportunity employer.",
+    "description": "JavaScript (New): Multi-choice test that measures knowledge of programming in the JavaScript language and its application in front-end development.",
+    "adaptive_support": "No",
+    "remote_support": "Yes",
+    "duration": null,
+    "test_type": [
+      "Knowledge & Skills",
+      "Personality & Behaviour"
+    ]
+  },
+  {
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/htmlcss-new/",
+    "name": "Find me 1 hour long assesment for the below job at SHL\nJob Description\n\n Join a community that is shaping the future of work! SHL, People Science. People Answers. \n\nAre you a seasoned QA Engineer with a flair for innovation? Are you ready to shape the future of talent assessment and empower organizations to unlock their full potential? If so, we want you to be a part of the SHL Team! As a QA Engineer, you will be involved in creating and implementing software solutions that contribute to the development of our ground-breaking products.\n\nAn excellent benefit package is offered in a culture where career development, with ongoing manager guidance, collaboration, flexibility, diversity, and inclusivity are all intrinsic to our culture.  There is a huge investment in SHL currently so there’s no better time to become a part of something transformational.\n\nWhat You Will Be Doing\n\n Getting involved in engineering quality assurance and providing inputs when required. \n Create and develop test plans for various forms of testing. \n Conducts and/or participates in formal and informal test case reviews. \n Develop and initiate functional tests and regression tests. \n Rolling out improvements for testing and quality processes. \n\nEssential\n\n What we are looking for from you: \n\n Development experience – Java or JavaScript, CSS, HTML (Automation) \n Selenium WebDriver and page object design pattern (Automation) \n SQL server knowledge \n Test case management experience. \n Manual Testing \n\nDesirable\n\n Knowledge the basic concepts of testing \n Strong solution-finding experience \n Strong verbal and written communicator. \n\nGet In Touch\n\nFind out how this one-off opportunity can help you achieve your career goals by making an application to our knowledgeable and friendly Talent Acquisition team. Choose a new path with SHL.\n\n #CareersAtSHL #SHLHiringTalent \n\n#TechnologyJobs #QualityAssuranceJobs\n\n#CareerOpportunities #JobOpportunities \n\nAbout Us\n\nWe unlock the possibilities of businesses through the power of people, science and technology.\nWe started this industry of people insight more than 40 years ago and continue to lead the market with powerhouse product launches, ground-breaking science and business transformation.\nWhen you inspire and transform people’s lives, you will experience the greatest business outcomes possible. SHL’s products insights, experiences, and services can help achieve growth at scale.\n\nWhat SHL Can Offer You\n\nDiversity, equity, inclusion and accessibility are key threads in the fabric of SHL’s business and culture (find out more about DEI and accessibility at SHL )\nEmployee benefits package that takes care of you and your family.\nSupport, coaching, and on-the-job development to achieve career success\nA fun and flexible workplace where you’ll be inspired to do your best work (find out more LifeAtSHL )\nThe ability to transform workplaces around the world for others.\n\nSHL is an equal opportunity employer. We support and encourage applications from a diverse range of candidates. We can, and do make adjustments to make sure our recruitment process is as inclusive as possible.\n\nSHL is an equal opportunity employer.",
+    "description": "HTML/CSS (New): Multi-choice test that measures the knowledge of HTML to create a user interface and CSS to stylize it.",
+    "adaptive_support": "No",
+    "remote_support": "Yes",
+    "duration": null,
+    "test_type": [
+      "Knowledge & Skills",
+      "Personality & Behaviour"
+    ]
+  },
+  {
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/css3-new/",
+    "name": "Find me 1 hour long assesment for the below job at SHL\nJob Description\n\n Join a community that is shaping the future of work! SHL, People Science. People Answers. \n\nAre you a seasoned QA Engineer with a flair for innovation? Are you ready to shape the future of talent assessment and empower organizations to unlock their full potential? If so, we want you to be a part of the SHL Team! As a QA Engineer, you will be involved in creating and implementing software solutions that contribute to the development of our ground-breaking products.\n\nAn excellent benefit package is offered in a culture where career development, with ongoing manager guidance, collaboration, flexibility, diversity, and inclusivity are all intrinsic to our culture.  There is a huge investment in SHL currently so there’s no better time to become a part of something transformational.\n\nWhat You Will Be Doing\n\n Getting involved in engineering quality assurance and providing inputs when required. \n Create and develop test plans for various forms of testing. \n Conducts and/or participates in formal and informal test case reviews. \n Develop and initiate functional tests and regression tests. \n Rolling out improvements for testing and quality processes. \n\nEssential\n\n What we are looking for from you: \n\n Development experience – Java or JavaScript, CSS, HTML (Automation) \n Selenium WebDriver and page object design pattern (Automation) \n SQL server knowledge \n Test case management experience. \n Manual Testing \n\nDesirable\n\n Knowledge the basic concepts of testing \n Strong solution-finding experience \n Strong verbal and written communicator. \n\nGet In Touch\n\nFind out how this one-off opportunity can help you achieve your career goals by making an application to our knowledgeable and friendly Talent Acquisition team. Choose a new path with SHL.\n\n #CareersAtSHL #SHLHiringTalent \n\n#TechnologyJobs #QualityAssuranceJobs\n\n#CareerOpportunities #JobOpportunities \n\nAbout Us\n\nWe unlock the possibilities of businesses through the power of people, science and technology.\nWe started this industry of people insight more than 40 years ago and continue to lead the market with powerhouse product launches, ground-breaking science and business transformation.\nWhen you inspire and transform people’s lives, you will experience the greatest business outcomes possible. SHL’s products insights, experiences, and services can help achieve growth at scale.\n\nWhat SHL Can Offer You\n\nDiversity, equity, inclusion and accessibility are key threads in the fabric of SHL’s business and culture (find out more about DEI and accessibility at SHL )\nEmployee benefits package that takes care of you and your family.\nSupport, coaching, and on-the-job development to achieve career success\nA fun and flexible workplace where you’ll be inspired to do your best work (find out more LifeAtSHL )\nThe ability to transform workplaces around the world for others.\n\nSHL is an equal opportunity employer. We support and encourage applications from a diverse range of candidates. We can, and do make adjustments to make sure our recruitment process is as inclusive as possible.\n\nSHL is an equal opportunity employer.",
+    "description": "CSS3 (New): Multi-choice test that measures the knowledge of CSS3 and its application in providing style to web documents.",
+    "adaptive_support": "No",
+    "remote_support": "Yes",
+    "duration": null,
+    "test_type": [
+      "Knowledge & Skills",
+      "Personality & Behaviour"
+    ]
+  },
+  {
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/selenium-new/",
+    "name": "Find me 1 hour long assesment for the below job at SHL\nJob Description\n\n Join a community that is shaping the future of work! SHL, People Science. People Answers. \n\nAre you a seasoned QA Engineer with a flair for innovation? Are you ready to shape the future of talent assessment and empower organizations to unlock their full potential? If so, we want you to be a part of the SHL Team! As a QA Engineer, you will be involved in creating and implementing software solutions that contribute to the development of our ground-breaking products.\n\nAn excellent benefit package is offered in a culture where career development, with ongoing manager guidance, collaboration, flexibility, diversity, and inclusivity are all intrinsic to our culture.  There is a huge investment in SHL currently so there’s no better time to become a part of something transformational.\n\nWhat You Will Be Doing\n\n Getting involved in engineering quality assurance and providing inputs when required. \n Create and develop test plans for various forms of testing. \n Conducts and/or participates in formal and informal test case reviews. \n Develop and initiate functional tests and regression tests. \n Rolling out improvements for testing and quality processes. \n\nEssential\n\n What we are looking for from you: \n\n Development experience – Java or JavaScript, CSS, HTML (Automation) \n Selenium WebDriver and page object design pattern (Automation) \n SQL server knowledge \n Test case management experience. \n Manual Testing \n\nDesirable\n\n Knowledge the basic concepts of testing \n Strong solution-finding experience \n Strong verbal and written communicator. \n\nGet In Touch\n\nFind out how this one-off opportunity can help you achieve your career goals by making an application to our knowledgeable and friendly Talent Acquisition team. Choose a new path with SHL.\n\n #CareersAtSHL #SHLHiringTalent \n\n#TechnologyJobs #QualityAssuranceJobs\n\n#CareerOpportunities #JobOpportunities \n\nAbout Us\n\nWe unlock the possibilities of businesses through the power of people, science and technology.\nWe started this industry of people insight more than 40 years ago and continue to lead the market with powerhouse product launches, ground-breaking science and business transformation.\nWhen you inspire and transform people’s lives, you will experience the greatest business outcomes possible. SHL’s products insights, experiences, and services can help achieve growth at scale.\n\nWhat SHL Can Offer You\n\nDiversity, equity, inclusion and accessibility are key threads in the fabric of SHL’s business and culture (find out more about DEI and accessibility at SHL )\nEmployee benefits package that takes care of you and your family.\nSupport, coaching, and on-the-job development to achieve career success\nA fun and flexible workplace where you’ll be inspired to do your best work (find out more LifeAtSHL )\nThe ability to transform workplaces around the world for others.\n\nSHL is an equal opportunity employer. We support and encourage applications from a diverse range of candidates. We can, and do make adjustments to make sure our recruitment process is as inclusive as possible.\n\nSHL is an equal opportunity employer.",
+    "description": "Selenium (New): Multi-choice test that measures the knowledge of Selenium IDE, Selenium RC, Selenium grid, web driver, test design considerations, user extensions, frameworks…",
+    "adaptive_support": "No",
+    "remote_support": "Yes",
+    "duration": null,
+    "test_type": [
+      "Knowledge & Skills",
+      "Personality & Behaviour"
+    ]
+  },
+  {
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/sql-server-new/",
+    "name": "Find me 1 hour long assesment for the below job at SHL\nJob Description\n\n Join a community that is shaping the future of work! SHL, People Science. People Answers. \n\nAre you a seasoned QA Engineer with a flair for innovation? Are you ready to shape the future of talent assessment and empower organizations to unlock their full potential? If so, we want you to be a part of the SHL Team! As a QA Engineer, you will be involved in creating and implementing software solutions that contribute to the development of our ground-breaking products.\n\nAn excellent benefit package is offered in a culture where career development, with ongoing manager guidance, collaboration, flexibility, diversity, and inclusivity are all intrinsic to our culture.  There is a huge investment in SHL currently so there’s no better time to become a part of something transformational.\n\nWhat You Will Be Doing\n\n Getting involved in engineering quality assurance and providing inputs when required. \n Create and develop test plans for various forms of testing. \n Conducts and/or participates in formal and informal test case reviews. \n Develop and initiate functional tests and regression tests. \n Rolling out improvements for testing and quality processes. \n\nEssential\n\n What we are looking for from you: \n\n Development experience – Java or JavaScript, CSS, HTML (Automation) \n Selenium WebDriver and page object design pattern (Automation) \n SQL server knowledge \n Test case management experience. \n Manual Testing \n\nDesirable\n\n Knowledge the basic concepts of testing \n Strong solution-finding experience \n Strong verbal and written communicator. \n\nGet In Touch\n\nFind out how this one-off opportunity can help you achieve your career goals by making an application to our knowledgeable and friendly Talent Acquisition team. Choose a new path with SHL.\n\n #CareersAtSHL #SHLHiringTalent \n\n#TechnologyJobs #QualityAssuranceJobs\n\n#CareerOpportunities #JobOpportunities \n\nAbout Us\n\nWe unlock the possibilities of businesses through the power of people, science and technology.\nWe started this industry of people insight more than 40 years ago and continue to lead the market with powerhouse product launches, ground-breaking science and business transformation.\nWhen you inspire and transform people’s lives, you will experience the greatest business outcomes possible. SHL’s products insights, experiences, and services can help achieve growth at scale.\n\nWhat SHL Can Offer You\n\nDiversity, equity, inclusion and accessibility are key threads in the fabric of SHL’s business and culture (find out more about DEI and accessibility at SHL )\nEmployee benefits package that takes care of you and your family.\nSupport, coaching, and on-the-job development to achieve career success\nA fun and flexible workplace where you’ll be inspired to do your best work (find out more LifeAtSHL )\nThe ability to transform workplaces around the world for others.\n\nSHL is an equal opportunity employer. We support and encourage applications from a diverse range of candidates. We can, and do make adjustments to make sure our recruitment process is as inclusive as possible.\n\nSHL is an equal opportunity employer.",
+    "description": "SQL Server (New): Multi-choice test that measures the knowledge of basic SQL queries, creating and altering tables, filtering, grouping, aggregation in SQL and querying multiple…",
+    "adaptive_support": "No",
+    "remote_support": "Yes",
+    "duration": null,
+    "test_type": [
+      "Knowledge & Skills",
+      "Personality & Behaviour"
+    ]
+  },
+  {
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/automata-sql-new/",
+    "name": "Find me 1 hour long assesment for the below job at SHL\nJob Description\n\n Join a community that is shaping the future of work! SHL, People Science. People Answers. \n\nAre you a seasoned QA Engineer with a flair for innovation? Are you ready to shape the future of talent assessment and empower organizations to unlock their full potential? If so, we want you to be a part of the SHL Team! As a QA Engineer, you will be involved in creating and implementing software solutions that contribute to the development of our ground-breaking products.\n\nAn excellent benefit package is offered in a culture where career development, with ongoing manager guidance, collaboration, flexibility, diversity, and inclusivity are all intrinsic to our culture.  There is a huge investment in SHL currently so there’s no better time to become a part of something transformational.\n\nWhat You Will Be Doing\n\n Getting involved in engineering quality assurance and providing inputs when required. \n Create and develop test plans for various forms of testing. \n Conducts and/or participates in formal and informal test case reviews. \n Develop and initiate functional tests and regression tests. \n Rolling out improvements for testing and quality processes. \n\nEssential\n\n What we are looking for from you: \n\n Development experience – Java or JavaScript, CSS, HTML (Automation) \n Selenium WebDriver and page object design pattern (Automation) \n SQL server knowledge \n Test case management experience. \n Manual Testing \n\nDesirable\n\n Knowledge the basic concepts of testing \n Strong solution-finding experience \n Strong verbal and written communicator. \n\nGet In Touch\n\nFind out how this one-off opportunity can help you achieve your career goals by making an application to our knowledgeable and friendly Talent Acquisition team. Choose a new path with SHL.\n\n #CareersAtSHL #SHLHiringTalent \n\n#TechnologyJobs #QualityAssuranceJobs\n\n#CareerOpportunities #JobOpportunities \n\nAbout Us\n\nWe unlock the possibilities of businesses through the power of people, science and technology.\nWe started this industry of people insight more than 40 years ago and continue to lead the market with powerhouse product launches, ground-breaking science and business transformation.\nWhen you inspire and transform people’s lives, you will experience the greatest business outcomes possible. SHL’s products insights, experiences, and services can help achieve growth at scale.\n\nWhat SHL Can Offer You\n\nDiversity, equity, inclusion and accessibility are key threads in the fabric of SHL’s business and culture (find out more about DEI and accessibility at SHL )\nEmployee benefits package that takes care of you and your family.\nSupport, coaching, and on-the-job development to achieve career success\nA fun and flexible workplace where you’ll be inspired to do your best work (find out more LifeAtSHL )\nThe ability to transform workplaces around the world for others.\n\nSHL is an equal opportunity employer. We support and encourage applications from a diverse range of candidates. We can, and do make adjustments to make sure our recruitment process is as inclusive as possible.\n\nSHL is an equal opportunity employer.",
+    "description": "Automata - SQL (New): A simulated query writing test that measures the ability to write SQL queries to perform DDL, DML and DCL tasks.",
+    "adaptive_support": "No",
+    "remote_support": "Yes",
+    "duration": null,
+    "test_type": [
+      "Knowledge & Skills",
+      "Personality & Behaviour"
+    ]
+  },
+  {
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/manual-testing-new/",
+    "name": "Find me 1 hour long assesment for the below job at SHL\nJob Description\n\n Join a community that is shaping the future of work! SHL, People Science. People Answers. \n\nAre you a seasoned QA Engineer with a flair for innovation? Are you ready to shape the future of talent assessment and empower organizations to unlock their full potential? If so, we want you to be a part of the SHL Team! As a QA Engineer, you will be involved in creating and implementing software solutions that contribute to the development of our ground-breaking products.\n\nAn excellent benefit package is offered in a culture where career development, with ongoing manager guidance, collaboration, flexibility, diversity, and inclusivity are all intrinsic to our culture.  There is a huge investment in SHL currently so there’s no better time to become a part of something transformational.\n\nWhat You Will Be Doing\n\n Getting involved in engineering quality assurance and providing inputs when required. \n Create and develop test plans for various forms of testing. \n Conducts and/or participates in formal and informal test case reviews. \n Develop and initiate functional tests and regression tests. \n Rolling out improvements for testing and quality processes. \n\nEssential\n\n What we are looking for from you: \n\n Development experience – Java or JavaScript, CSS, HTML (Automation) \n Selenium WebDriver and page object design pattern (Automation) \n SQL server knowledge \n Test case management experience. \n Manual Testing \n\nDesirable\n\n Knowledge the basic concepts of testing \n Strong solution-finding experience \n Strong verbal and written communicator. \n\nGet In Touch\n\nFind out how this one-off opportunity can help you achieve your career goals by making an application to our knowledgeable and friendly Talent Acquisition team. Choose a new path with SHL.\n\n #CareersAtSHL #SHLHiringTalent \n\n#TechnologyJobs #QualityAssuranceJobs\n\n#CareerOpportunities #JobOpportunities \n\nAbout Us\n\nWe unlock the possibilities of businesses through the power of people, science and technology.\nWe started this industry of people insight more than 40 years ago and continue to lead the market with powerhouse product launches, ground-breaking science and business transformation.\nWhen you inspire and transform people’s lives, you will experience the greatest business outcomes possible. SHL’s products insights, experiences, and services can help achieve growth at scale.\n\nWhat SHL Can Offer You\n\nDiversity, equity, inclusion and accessibility are key threads in the fabric of SHL’s business and culture (find out more about DEI and accessibility at SHL )\nEmployee benefits package that takes care of you and your family.\nSupport, coaching, and on-the-job development to achieve career success\nA fun and flexible workplace where you’ll be inspired to do your best work (find out more LifeAtSHL )\nThe ability to transform workplaces around the world for others.\n\nSHL is an equal opportunity employer. We support and encourage applications from a diverse range of candidates. We can, and do make adjustments to make sure our recruitment process is as inclusive as possible.\n\nSHL is an equal opportunity employer.",
+    "description": "Manual Testing (New): Multi-choice test that measures the knowledge of the software testing life cycle, testing tools and techniques, design of test cases and generation of test…",
+    "adaptive_support": "No",
+    "remote_support": "Yes",
+    "duration": null,
+    "test_type": [
+      "Knowledge & Skills",
+      "Personality & Behaviour"
+    ]
+  },
+  {
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/administrative-professional-short-form/",
+    "name": "ICICI Bank Assistant Admin, Experience required 0-2 years, test should be 30-40 mins long",
+    "description": "Administrative Professional - Short Form: The Administrative Professional solution is for entry to mid-level positions that involve routine clerical and administrative functions in addition to office…",
+    "adaptive_support": "No",
+    "remote_support": "Yes",
+    "duration": null,
+    "test_type": [
+      "Knowledge & Skills",
+      "Personality & Behaviour"
+    ]
+  },
+  {
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/verify-numerical-ability/",
+    "name": "ICICI Bank Assistant Admin, Experience required 0-2 years, test should be 30-40 mins long",
+    "description": "Verify - Numerical Ability: The next-generation Verify Numerical Ability Test provides a replacement for the existing Numerical Reasoning test in our Verify range of ability tests and the…",
+    "adaptive_support": "No",
+    "remote_support": "Yes",
+    "duration": 20,
+    "test_type": [
+      "Knowledge & Skills",
+      "Personality & Behaviour",
+      "Cognitive Ability"
+    ]
+  },
+  {
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/financial-professional-short-form/",
+    "name": "ICICI Bank Assistant Admin, Experience required 0-2 years, test should be 30-40 mins long",
+    "description": "Financial Professional - Short Form: This solution is for mid-level financial institution positions that require Series 6/7 certification. Candidates answer multiple choice questions to measure…",
+    "adaptive_support": "No",
+    "remote_support": "Yes",
+    "duration": null,
+    "test_type": [
+      "Knowledge & Skills",
+      "Personality & Behaviour"
+    ]
+  },
+  {
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/bank-administrative-assistant-short-form/",
+    "name": "ICICI Bank Assistant Admin, Experience required 0-2 years, test should be 30-40 mins long",
+    "description": "Bank Administrative Assistant - Short Form: The Administrative Assistant solution is for entry-level clerical positions that interact with external or internal customers. Sample tasks for these jobs…",
+    "adaptive_support": "No",
+    "remote_support": "Yes",
+    "duration": null,
+    "test_type": [
+      "Knowledge & Skills",
+      "Personality & Behaviour"
+    ]
+  },
+  {
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/general-entry-level-data-entry-7-0-solution/",
+    "name": "ICICI Bank Assistant Admin, Experience required 0-2 years, test should be 30-40 mins long",
+    "description": "General Entry Level – Data Entry 7.0 Solution: Our General Entry Level – Data Entry 7.0 solution is designed for entry-level positions that include entering data into computers or data management systems…",
+    "adaptive_support": "No",
+    "remote_support": "Yes",
+    "duration": null,
+    "test_type": [
+      "Knowledge & Skills",
+      "Personality & Behaviour"
+    ]
+  },
+  {
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/basic-computer-literacy-windows-10-new/",
+    "name": "ICICI Bank Assistant Admin, Experience required 0-2 years, test should be 30-40 mins long",
+    "description": "Basic Computer Literacy (Windows 10) (New): The Basic Computer Literacy (Windows 10) simulation measures knowledge of general computer terminology, processes, and applications and the ability to perform…",
+    "adaptive_support": "No",
+    "remote_support": "Yes",
+    "duration": null,
+    "test_type": [
+      "Knowledge & Skills",
+      "Personality & Behaviour"
+    ]
+  },
+  {
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/manager-8-0-jfa-4310/",
+    "name": "We're looking for a Marketing Manager who can drive Recro’s brand positioning, community growth, and overall marketing strategy to fuel business growth. The ideal candidate is a strategic thinker, an execution-focused leader, and an expert in building high-performing marketing teams.\n\n\n\nAbout Recro \n\n\nRecro is a developer-focused platform that was founded to match individual expertise with the right opportunities seamlessly. We empower talented developers by providing them with relevant experience at fast-growing startups based on technical competencies and aspirations. These opportunities have a significant impact on their career success and help them become their best self.\n\n\nAbout The Role\n\nDevelop and execute Recro’s marketing strategy to enhance community engagement, brand positioning, and industry presence.\nLead the marketing team and oversee all functions, with a strong focus on community building, events, brand positioning, social media engagement, and market intelligence.\nDrive demand generation by leveraging community-driven initiatives, influencer partnerships, and strategic event participation.\nOrganize and represent Recro at industry conferences, networking events, and developer meetups to strengthen brand positioning.\nBuild and nurture relationships with industry influencers, developer communities, and partners to create brand advocates.\nOwn the marketing funnel, ensuring continuous tracking, analysis, and optimization of community engagement and event performance.\nCollaborate with sales, business development, and leadership teams to align marketing strategies with business objectives and market trends.\nManage marketing budgets, prioritizing event sponsorships, partnerships, and community-driven growth initiatives.\nDevelop compelling content strategies to drive community interaction and thought leadership.\nStay ahead of industry trends, competitor movements, and emerging social and market intelligence to maintain a competitive edge\n\n\nRequirements\n\n5+ years of experience in B2B marketing with a strong focus on community building, events, and brand positioning.\nHas a deep understanding how demand generation works from traditional and new age channels\nProven track record of executing large-scale events and community-driven initiatives.\nExperience in developing partnerships with industry influencers and thought leaders.\nStrong understanding of social media dynamics and community engagement strategies.\nAbility to leverage market intelligence and competitor insights to refine marketing strategies.\nExceptional storytelling and brand communication skills.\nHands-on experience with event management, sponsorships, and partnership collaborations.\nExperience in building a thriving developer or tech community is a plus.\nOpen for flexible work timings as per target geographies.\n\nI have no bar on duration.",
+    "description": "Manager 8.0+ JFA: The Manager 8.0+ Job-Focused Assessment is designed for candidates applying to their first leadership positions and includes SHL’s new innovative mobile-first…",
+    "adaptive_support": "No",
+    "remote_support": "Yes",
+    "duration": null,
+    "test_type": [
+      "Knowledge & Skills",
+      "Personality & Behaviour",
+      "Cognitive Ability"
+    ]
+  },
+  {
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/microsoft-excel-365-essentials-new/",
+    "name": "We're looking for a Marketing Manager who can drive Recro’s brand positioning, community growth, and overall marketing strategy to fuel business growth. The ideal candidate is a strategic thinker, an execution-focused leader, and an expert in building high-performing marketing teams.\n\n\n\nAbout Recro \n\n\nRecro is a developer-focused platform that was founded to match individual expertise with the right opportunities seamlessly. We empower talented developers by providing them with relevant experience at fast-growing startups based on technical competencies and aspirations. These opportunities have a significant impact on their career success and help them become their best self.\n\n\nAbout The Role\n\nDevelop and execute Recro’s marketing strategy to enhance community engagement, brand positioning, and industry presence.\nLead the marketing team and oversee all functions, with a strong focus on community building, events, brand positioning, social media engagement, and market intelligence.\nDrive demand generation by leveraging community-driven initiatives, influencer partnerships, and strategic event participation.\nOrganize and represent Recro at industry conferences, networking events, and developer meetups to strengthen brand positioning.\nBuild and nurture relationships with industry influencers, developer communities, and partners to create brand advocates.\nOwn the marketing funnel, ensuring continuous tracking, analysis, and optimization of community engagement and event performance.\nCollaborate with sales, business development, and leadership teams to align marketing strategies with business objectives and market trends.\nManage marketing budgets, prioritizing event sponsorships, partnerships, and community-driven growth initiatives.\nDevelop compelling content strategies to drive community interaction and thought leadership.\nStay ahead of industry trends, competitor movements, and emerging social and market intelligence to maintain a competitive edge\n\n\nRequirements\n\n5+ years of experience in B2B marketing with a strong focus on community building, events, and brand positioning.\nHas a deep understanding how demand generation works from traditional and new age channels\nProven track record of executing large-scale events and community-driven initiatives.\nExperience in developing partnerships with industry influencers and thought leaders.\nStrong understanding of social media dynamics and community engagement strategies.\nAbility to leverage market intelligence and competitor insights to refine marketing strategies.\nExceptional storytelling and brand communication skills.\nHands-on experience with event management, sponsorships, and partnership collaborations.\nExperience in building a thriving developer or tech community is a plus.\nOpen for flexible work timings as per target geographies.\n\nI have no bar on duration.",
+    "description": "Microsoft Excel 365 - Essentials (New): The Microsoft Excel 365 - Essentials simulation evaluates ability to perform certain operations in a simulated environment of MS Excel, and includes the…",
+    "adaptive_support": "No",
+    "remote_support": "Yes",
+    "duration": null,
+    "test_type": [
+      "Knowledge & Skills",
+      "Personality & Behaviour"
+    ]
+  },
+  {
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/digital-advertising-new/",
+    "name": "We're looking for a Marketing Manager who can drive Recro’s brand positioning, community growth, and overall marketing strategy to fuel business growth. The ideal candidate is a strategic thinker, an execution-focused leader, and an expert in building high-performing marketing teams.\n\n\n\nAbout Recro \n\n\nRecro is a developer-focused platform that was founded to match individual expertise with the right opportunities seamlessly. We empower talented developers by providing them with relevant experience at fast-growing startups based on technical competencies and aspirations. These opportunities have a significant impact on their career success and help them become their best self.\n\n\nAbout The Role\n\nDevelop and execute Recro’s marketing strategy to enhance community engagement, brand positioning, and industry presence.\nLead the marketing team and oversee all functions, with a strong focus on community building, events, brand positioning, social media engagement, and market intelligence.\nDrive demand generation by leveraging community-driven initiatives, influencer partnerships, and strategic event participation.\nOrganize and represent Recro at industry conferences, networking events, and developer meetups to strengthen brand positioning.\nBuild and nurture relationships with industry influencers, developer communities, and partners to create brand advocates.\nOwn the marketing funnel, ensuring continuous tracking, analysis, and optimization of community engagement and event performance.\nCollaborate with sales, business development, and leadership teams to align marketing strategies with business objectives and market trends.\nManage marketing budgets, prioritizing event sponsorships, partnerships, and community-driven growth initiatives.\nDevelop compelling content strategies to drive community interaction and thought leadership.\nStay ahead of industry trends, competitor movements, and emerging social and market intelligence to maintain a competitive edge\n\n\nRequirements\n\n5+ years of experience in B2B marketing with a strong focus on community building, events, and brand positioning.\nHas a deep understanding how demand generation works from traditional and new age channels\nProven track record of executing large-scale events and community-driven initiatives.\nExperience in developing partnerships with industry influencers and thought leaders.\nStrong understanding of social media dynamics and community engagement strategies.\nAbility to leverage market intelligence and competitor insights to refine marketing strategies.\nExceptional storytelling and brand communication skills.\nHands-on experience with event management, sponsorships, and partnership collaborations.\nExperience in building a thriving developer or tech community is a plus.\nOpen for flexible work timings as per target geographies.\n\nI have no bar on duration.",
+    "description": "Digital Advertising (New): Multi-choice test that measures the candidate's knowledge about use of AdWords and tools to analyze ad performance on digital media.",
+    "adaptive_support": "No",
+    "remote_support": "Yes",
+    "duration": null,
+    "test_type": [
+      "Knowledge & Skills",
+      "Personality & Behaviour"
+    ]
+  },
+  {
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/shl-verify-interactive-inductive-reasoning/",
+    "name": "We're looking for a Marketing Manager who can drive Recro’s brand positioning, community growth, and overall marketing strategy to fuel business growth. The ideal candidate is a strategic thinker, an execution-focused leader, and an expert in building high-performing marketing teams.\n\n\n\nAbout Recro \n\n\nRecro is a developer-focused platform that was founded to match individual expertise with the right opportunities seamlessly. We empower talented developers by providing them with relevant experience at fast-growing startups based on technical competencies and aspirations. These opportunities have a significant impact on their career success and help them become their best self.\n\n\nAbout The Role\n\nDevelop and execute Recro’s marketing strategy to enhance community engagement, brand positioning, and industry presence.\nLead the marketing team and oversee all functions, with a strong focus on community building, events, brand positioning, social media engagement, and market intelligence.\nDrive demand generation by leveraging community-driven initiatives, influencer partnerships, and strategic event participation.\nOrganize and represent Recro at industry conferences, networking events, and developer meetups to strengthen brand positioning.\nBuild and nurture relationships with industry influencers, developer communities, and partners to create brand advocates.\nOwn the marketing funnel, ensuring continuous tracking, analysis, and optimization of community engagement and event performance.\nCollaborate with sales, business development, and leadership teams to align marketing strategies with business objectives and market trends.\nManage marketing budgets, prioritizing event sponsorships, partnerships, and community-driven growth initiatives.\nDevelop compelling content strategies to drive community interaction and thought leadership.\nStay ahead of industry trends, competitor movements, and emerging social and market intelligence to maintain a competitive edge\n\n\nRequirements\n\n5+ years of experience in B2B marketing with a strong focus on community building, events, and brand positioning.\nHas a deep understanding how demand generation works from traditional and new age channels\nProven track record of executing large-scale events and community-driven initiatives.\nExperience in developing partnerships with industry influencers and thought leaders.\nStrong understanding of social media dynamics and community engagement strategies.\nAbility to leverage market intelligence and competitor insights to refine marketing strategies.\nExceptional storytelling and brand communication skills.\nHands-on experience with event management, sponsorships, and partnership collaborations.\nExperience in building a thriving developer or tech community is a plus.\nOpen for flexible work timings as per target geographies.\n\nI have no bar on duration.",
+    "description": "SHL Verify Interactive - Inductive Reasoning: Evaluates ability to identify specific patterns in data or situations and generalize that information to broader contexts.",
+    "adaptive_support": "No",
+    "remote_support": "Yes",
+    "duration": null,
+    "test_type": [
+      "Knowledge & Skills",
+      "Personality & Behaviour",
+      "Cognitive Ability"
+    ]
+  },
+  {
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/writex-email-writing-sales-new/",
+    "name": "We're looking for a Marketing Manager who can drive Recro’s brand positioning, community growth, and overall marketing strategy to fuel business growth. The ideal candidate is a strategic thinker, an execution-focused leader, and an expert in building high-performing marketing teams.\n\n\n\nAbout Recro \n\n\nRecro is a developer-focused platform that was founded to match individual expertise with the right opportunities seamlessly. We empower talented developers by providing them with relevant experience at fast-growing startups based on technical competencies and aspirations. These opportunities have a significant impact on their career success and help them become their best self.\n\n\nAbout The Role\n\nDevelop and execute Recro’s marketing strategy to enhance community engagement, brand positioning, and industry presence.\nLead the marketing team and oversee all functions, with a strong focus on community building, events, brand positioning, social media engagement, and market intelligence.\nDrive demand generation by leveraging community-driven initiatives, influencer partnerships, and strategic event participation.\nOrganize and represent Recro at industry conferences, networking events, and developer meetups to strengthen brand positioning.\nBuild and nurture relationships with industry influencers, developer communities, and partners to create brand advocates.\nOwn the marketing funnel, ensuring continuous tracking, analysis, and optimization of community engagement and event performance.\nCollaborate with sales, business development, and leadership teams to align marketing strategies with business objectives and market trends.\nManage marketing budgets, prioritizing event sponsorships, partnerships, and community-driven growth initiatives.\nDevelop compelling content strategies to drive community interaction and thought leadership.\nStay ahead of industry trends, competitor movements, and emerging social and market intelligence to maintain a competitive edge\n\n\nRequirements\n\n5+ years of experience in B2B marketing with a strong focus on community building, events, and brand positioning.\nHas a deep understanding how demand generation works from traditional and new age channels\nProven track record of executing large-scale events and community-driven initiatives.\nExperience in developing partnerships with industry influencers and thought leaders.\nStrong understanding of social media dynamics and community engagement strategies.\nAbility to leverage market intelligence and competitor insights to refine marketing strategies.\nExceptional storytelling and brand communication skills.\nHands-on experience with event management, sponsorships, and partnership collaborations.\nExperience in building a thriving developer or tech community is a plus.\nOpen for flexible work timings as per target geographies.\n\nI have no bar on duration.",
+    "description": "WriteX - Email Writing (Sales) (New): Open response test that evaluates the ability to write proper emails in English. The test provides scores on content, grammar and email etiquette.     Your use…",
+    "adaptive_support": "No",
+    "remote_support": "Yes",
+    "duration": null,
+    "test_type": [
+      "Knowledge & Skills",
+      "Personality & Behaviour"
+    ]
+  },
+  {
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/shl-verify-interactive-numerical-calculation/",
+    "name": "Based on the JD below recommend me assessment for the Consultant position in my organizations. The assessment should not be more than 90 mins\nb Description\n\n Job Purpose \n\nResponsibilities\n\nThe Consultant role supports the broader professional services organization by leading the delivery of impactful client solutions and advising on client programs. Consultants are expected to deliver solutions, services, and insights that are driven by industry best practices and that positively impact client business objectives and partnerships. Individuals in this role provide I/O technical guidance to internal and external stakeholders, and drive continuous improvement related to project delivery.  Primary Duties and Responsibilities  Primary job duties and responsibilities include but may not be limited to:\n\n Planning, executing, and documenting projects related to clients’ talent assessment and development needs (e.g., job analysis, validation, leadership assessment, succession planning, program implementation, adverse impact analyses, best practices). \n Leading projects; ensuring overall quality for all client deliverables and guiding other to do the same. \n Serving as an expert resource to clients and internal stakeholders about issues related to talent assessment, selection, and development. \n Linking human capital insights to business outcomes and demonstrating ROI. \n Collaborating with members of the Sales team to manage existing programs and identify new business opportunities. \n Maintaining up-to-date knowledge of the field including empirical research, industry trends, and competitors. \n Providing talent analytics and data insights to technical and non-technical stakeholders. \n Contributing to the ongoing definition and development of SHL’s offerings and methodologies. \n Presenting to and interacting with senior client stakeholders. \n Providing thought leadership; working with delivery and commercial teams to drive improvements in the scoping and execution of projects/deliverables. \n\n Key Competencies: \n\n Decision Making \n Collaboration \n Building Relationships \n Creativity and Innovation \n Planning and Organizing \n Delivering Results \n Adaptability \n\n Qualifications include: \n\n A graduate degree in Industrial/Organizational psychology or a related discipline \n 2+ years of relevant work experience in applied talent assessment, talent management, or employee selection, including program design and implementation \n Client-facing delivery experience with design and implementation of talent assessment programs (including job analysis, criterion validation, content validation, and interviews) \n Selection system development and / or evaluation \n Proficient in at least one statistical program (e.g., SPSS, R) \n Strong communication skills and presenting technical results to non-technical stakeholders \n\n#IO #IndustrialPsychology #psychtalent #talentmanagement #talentassessment #psychometrics #consultant\n\nAbout Us\n\nWe unlock the possibilities of businesses through the power of people, science, and technology.\n\nWe started this industry of people insight more than 40 years ago and continue to lead the market with powerhouse product launches, ground-breaking science, and business transformation.\n\nWhen you inspire and transform people’s lives, you will experience the greatest business outcomes possible. SHL’s products insights, experiences, and services can help achieve growth at scale.\n\nMore at shl.com.\n\nWhat SHL Can Offer You\n\n An inclusive culture. \n A fun and flexible workplace where you’ll be inspired to do your best work. \n Employee benefits package that takes care of you and your family. \n Support, coaching, and on-the-job development to achieve career success. \n The ability to transform workplaces around the world for others. \n\nSHL is an equal opportunity employer.",
+    "description": "SHL Verify Interactive Numerical Calculation: The Verify Interactive Numerical Calculation test measures a candidate’s ability to work with numbers and use appropriate mathematics in different situations…",
+    "adaptive_support": "No",
+    "remote_support": "Yes",
+    "duration": null,
+    "test_type": [
+      "Knowledge & Skills",
+      "Personality & Behaviour"
+    ]
+  },
+  {
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/administrative-professional-short-form/",
+    "name": "Based on the JD below recommend me assessment for the Consultant position in my organizations. The assessment should not be more than 90 mins\nb Description\n\n Job Purpose \n\nResponsibilities\n\nThe Consultant role supports the broader professional services organization by leading the delivery of impactful client solutions and advising on client programs. Consultants are expected to deliver solutions, services, and insights that are driven by industry best practices and that positively impact client business objectives and partnerships. Individuals in this role provide I/O technical guidance to internal and external stakeholders, and drive continuous improvement related to project delivery.  Primary Duties and Responsibilities  Primary job duties and responsibilities include but may not be limited to:\n\n Planning, executing, and documenting projects related to clients’ talent assessment and development needs (e.g., job analysis, validation, leadership assessment, succession planning, program implementation, adverse impact analyses, best practices). \n Leading projects; ensuring overall quality for all client deliverables and guiding other to do the same. \n Serving as an expert resource to clients and internal stakeholders about issues related to talent assessment, selection, and development. \n Linking human capital insights to business outcomes and demonstrating ROI. \n Collaborating with members of the Sales team to manage existing programs and identify new business opportunities. \n Maintaining up-to-date knowledge of the field including empirical research, industry trends, and competitors. \n Providing talent analytics and data insights to technical and non-technical stakeholders. \n Contributing to the ongoing definition and development of SHL’s offerings and methodologies. \n Presenting to and interacting with senior client stakeholders. \n Providing thought leadership; working with delivery and commercial teams to drive improvements in the scoping and execution of projects/deliverables. \n\n Key Competencies: \n\n Decision Making \n Collaboration \n Building Relationships \n Creativity and Innovation \n Planning and Organizing \n Delivering Results \n Adaptability \n\n Qualifications include: \n\n A graduate degree in Industrial/Organizational psychology or a related discipline \n 2+ years of relevant work experience in applied talent assessment, talent management, or employee selection, including program design and implementation \n Client-facing delivery experience with design and implementation of talent assessment programs (including job analysis, criterion validation, content validation, and interviews) \n Selection system development and / or evaluation \n Proficient in at least one statistical program (e.g., SPSS, R) \n Strong communication skills and presenting technical results to non-technical stakeholders \n\n#IO #IndustrialPsychology #psychtalent #talentmanagement #talentassessment #psychometrics #consultant\n\nAbout Us\n\nWe unlock the possibilities of businesses through the power of people, science, and technology.\n\nWe started this industry of people insight more than 40 years ago and continue to lead the market with powerhouse product launches, ground-breaking science, and business transformation.\n\nWhen you inspire and transform people’s lives, you will experience the greatest business outcomes possible. SHL’s products insights, experiences, and services can help achieve growth at scale.\n\nMore at shl.com.\n\nWhat SHL Can Offer You\n\n An inclusive culture. \n A fun and flexible workplace where you’ll be inspired to do your best work. \n Employee benefits package that takes care of you and your family. \n Support, coaching, and on-the-job development to achieve career success. \n The ability to transform workplaces around the world for others. \n\nSHL is an equal opportunity employer.",
+    "description": "Administrative Professional - Short Form: The Administrative Professional solution is for entry to mid-level positions that involve routine clerical and administrative functions in addition to office…",
+    "adaptive_support": "No",
+    "remote_support": "Yes",
+    "duration": null,
+    "test_type": [
+      "Knowledge & Skills",
+      "Personality & Behaviour"
+    ]
+  },
+  {
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/verify-verbal-ability-next-generation/",
+    "name": "Based on the JD below recommend me assessment for the Consultant position in my organizations. The assessment should not be more than 90 mins\nb Description\n\n Job Purpose \n\nResponsibilities\n\nThe Consultant role supports the broader professional services organization by leading the delivery of impactful client solutions and advising on client programs. Consultants are expected to deliver solutions, services, and insights that are driven by industry best practices and that positively impact client business objectives and partnerships. Individuals in this role provide I/O technical guidance to internal and external stakeholders, and drive continuous improvement related to project delivery.  Primary Duties and Responsibilities  Primary job duties and responsibilities include but may not be limited to:\n\n Planning, executing, and documenting projects related to clients’ talent assessment and development needs (e.g., job analysis, validation, leadership assessment, succession planning, program implementation, adverse impact analyses, best practices). \n Leading projects; ensuring overall quality for all client deliverables and guiding other to do the same. \n Serving as an expert resource to clients and internal stakeholders about issues related to talent assessment, selection, and development. \n Linking human capital insights to business outcomes and demonstrating ROI. \n Collaborating with members of the Sales team to manage existing programs and identify new business opportunities. \n Maintaining up-to-date knowledge of the field including empirical research, industry trends, and competitors. \n Providing talent analytics and data insights to technical and non-technical stakeholders. \n Contributing to the ongoing definition and development of SHL’s offerings and methodologies. \n Presenting to and interacting with senior client stakeholders. \n Providing thought leadership; working with delivery and commercial teams to drive improvements in the scoping and execution of projects/deliverables. \n\n Key Competencies: \n\n Decision Making \n Collaboration \n Building Relationships \n Creativity and Innovation \n Planning and Organizing \n Delivering Results \n Adaptability \n\n Qualifications include: \n\n A graduate degree in Industrial/Organizational psychology or a related discipline \n 2+ years of relevant work experience in applied talent assessment, talent management, or employee selection, including program design and implementation \n Client-facing delivery experience with design and implementation of talent assessment programs (including job analysis, criterion validation, content validation, and interviews) \n Selection system development and / or evaluation \n Proficient in at least one statistical program (e.g., SPSS, R) \n Strong communication skills and presenting technical results to non-technical stakeholders \n\n#IO #IndustrialPsychology #psychtalent #talentmanagement #talentassessment #psychometrics #consultant\n\nAbout Us\n\nWe unlock the possibilities of businesses through the power of people, science, and technology.\n\nWe started this industry of people insight more than 40 years ago and continue to lead the market with powerhouse product launches, ground-breaking science, and business transformation.\n\nWhen you inspire and transform people’s lives, you will experience the greatest business outcomes possible. SHL’s products insights, experiences, and services can help achieve growth at scale.\n\nMore at shl.com.\n\nWhat SHL Can Offer You\n\n An inclusive culture. \n A fun and flexible workplace where you’ll be inspired to do your best work. \n Employee benefits package that takes care of you and your family. \n Support, coaching, and on-the-job development to achieve career success. \n The ability to transform workplaces around the world for others. \n\nSHL is an equal opportunity employer.",
+    "description": "Verify - Verbal Ability - Next Generation: The Verbal Ability test measures the ability to read written passages and comprehend the text, interpret tone and author intent, identify main ideas, and…",
+    "adaptive_support": "No",
+    "remote_support": "Yes",
+    "duration": 15,
+    "test_type": [
+      "Knowledge & Skills",
+      "Personality & Behaviour"
+    ]
+  },
+  {
+    "url": "https://www.shl.com/products/product-catalog/view/occupational-personality-questionnaire-opq32r/",
+    "name": "Based on the JD below recommend me assessment for the Consultant position in my organizations. The assessment should not be more than 90 mins\nb Description\n\n Job Purpose \n\nResponsibilities\n\nThe Consultant role supports the broader professional services organization by leading the delivery of impactful client solutions and advising on client programs. Consultants are expected to deliver solutions, services, and insights that are driven by industry best practices and that positively impact client business objectives and partnerships. Individuals in this role provide I/O technical guidance to internal and external stakeholders, and drive continuous improvement related to project delivery.  Primary Duties and Responsibilities  Primary job duties and responsibilities include but may not be limited to:\n\n Planning, executing, and documenting projects related to clients’ talent assessment and development needs (e.g., job analysis, validation, leadership assessment, succession planning, program implementation, adverse impact analyses, best practices). \n Leading projects; ensuring overall quality for all client deliverables and guiding other to do the same. \n Serving as an expert resource to clients and internal stakeholders about issues related to talent assessment, selection, and development. \n Linking human capital insights to business outcomes and demonstrating ROI. \n Collaborating with members of the Sales team to manage existing programs and identify new business opportunities. \n Maintaining up-to-date knowledge of the field including empirical research, industry trends, and competitors. \n Providing talent analytics and data insights to technical and non-technical stakeholders. \n Contributing to the ongoing definition and development of SHL’s offerings and methodologies. \n Presenting to and interacting with senior client stakeholders. \n Providing thought leadership; working with delivery and commercial teams to drive improvements in the scoping and execution of projects/deliverables. \n\n Key Competencies: \n\n Decision Making \n Collaboration \n Building Relationships \n Creativity and Innovation \n Planning and Organizing \n Delivering Results \n Adaptability \n\n Qualifications include: \n\n A graduate degree in Industrial/Organizational psychology or a related discipline \n 2+ years of relevant work experience in applied talent assessment, talent management, or employee selection, including program design and implementation \n Client-facing delivery experience with design and implementation of talent assessment programs (including job analysis, criterion validation, content validation, and interviews) \n Selection system development and / or evaluation \n Proficient in at least one statistical program (e.g., SPSS, R) \n Strong communication skills and presenting technical results to non-technical stakeholders \n\n#IO #IndustrialPsychology #psychtalent #talentmanagement #talentassessment #psychometrics #consultant\n\nAbout Us\n\nWe unlock the possibilities of businesses through the power of people, science, and technology.\n\nWe started this industry of people insight more than 40 years ago and continue to lead the market with powerhouse product launches, ground-breaking science, and business transformation.\n\nWhen you inspire and transform people’s lives, you will experience the greatest business outcomes possible. SHL’s products insights, experiences, and services can help achieve growth at scale.\n\nMore at shl.com.\n\nWhat SHL Can Offer You\n\n An inclusive culture. \n A fun and flexible workplace where you’ll be inspired to do your best work. \n Employee benefits package that takes care of you and your family. \n Support, coaching, and on-the-job development to achieve career success. \n The ability to transform workplaces around the world for others. \n\nSHL is an equal opportunity employer.",
+    "description": "Occupational Personality Questionnaire OPQ32r: The SHL Occupational Personality Questionnaire, the OPQ32, is one of the most widely used and respected measures of workplace behavioural style in the world…",
+    "adaptive_support": "No",
+    "remote_support": "Yes",
+    "duration": null,
+    "test_type": [
+      "Knowledge & Skills",
+      "Personality & Behaviour"
+    ]
+  },
+  {
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/professional-7-1-solution/",
+    "name": "Based on the JD below recommend me assessment for the Consultant position in my organizations. The assessment should not be more than 90 mins\nb Description\n\n Job Purpose \n\nResponsibilities\n\nThe Consultant role supports the broader professional services organization by leading the delivery of impactful client solutions and advising on client programs. Consultants are expected to deliver solutions, services, and insights that are driven by industry best practices and that positively impact client business objectives and partnerships. Individuals in this role provide I/O technical guidance to internal and external stakeholders, and drive continuous improvement related to project delivery.  Primary Duties and Responsibilities  Primary job duties and responsibilities include but may not be limited to:\n\n Planning, executing, and documenting projects related to clients’ talent assessment and development needs (e.g., job analysis, validation, leadership assessment, succession planning, program implementation, adverse impact analyses, best practices). \n Leading projects; ensuring overall quality for all client deliverables and guiding other to do the same. \n Serving as an expert resource to clients and internal stakeholders about issues related to talent assessment, selection, and development. \n Linking human capital insights to business outcomes and demonstrating ROI. \n Collaborating with members of the Sales team to manage existing programs and identify new business opportunities. \n Maintaining up-to-date knowledge of the field including empirical research, industry trends, and competitors. \n Providing talent analytics and data insights to technical and non-technical stakeholders. \n Contributing to the ongoing definition and development of SHL’s offerings and methodologies. \n Presenting to and interacting with senior client stakeholders. \n Providing thought leadership; working with delivery and commercial teams to drive improvements in the scoping and execution of projects/deliverables. \n\n Key Competencies: \n\n Decision Making \n Collaboration \n Building Relationships \n Creativity and Innovation \n Planning and Organizing \n Delivering Results \n Adaptability \n\n Qualifications include: \n\n A graduate degree in Industrial/Organizational psychology or a related discipline \n 2+ years of relevant work experience in applied talent assessment, talent management, or employee selection, including program design and implementation \n Client-facing delivery experience with design and implementation of talent assessment programs (including job analysis, criterion validation, content validation, and interviews) \n Selection system development and / or evaluation \n Proficient in at least one statistical program (e.g., SPSS, R) \n Strong communication skills and presenting technical results to non-technical stakeholders \n\n#IO #IndustrialPsychology #psychtalent #talentmanagement #talentassessment #psychometrics #consultant\n\nAbout Us\n\nWe unlock the possibilities of businesses through the power of people, science, and technology.\n\nWe started this industry of people insight more than 40 years ago and continue to lead the market with powerhouse product launches, ground-breaking science, and business transformation.\n\nWhen you inspire and transform people’s lives, you will experience the greatest business outcomes possible. SHL’s products insights, experiences, and services can help achieve growth at scale.\n\nMore at shl.com.\n\nWhat SHL Can Offer You\n\n An inclusive culture. \n A fun and flexible workplace where you’ll be inspired to do your best work. \n Employee benefits package that takes care of you and your family. \n Support, coaching, and on-the-job development to achieve career success. \n The ability to transform workplaces around the world for others. \n\nSHL is an equal opportunity employer.",
+    "description": "Professional + 7.1 (International): Our Professional + 7.1 solution is designed for all non-managerial professional individual contributor positions, and includes SHL’s new innovative…",
+    "adaptive_support": "No",
+    "remote_support": "Yes",
+    "duration": null,
+    "test_type": [
+      "Knowledge & Skills",
+      "Personality & Behaviour",
+      "Cognitive Ability"
+    ]
+  },
+  {
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/sql-server-analysis-services-%28ssas%29-%28new%29/",
+    "name": "I want to hire a Senior Data Analyst with 5 years of experience and expertise in SQL, Excel and Python. The assessment can be 1-2 hour long",
+    "description": "SQL Server Analysis Services (SSAS) (New): Multi-choice test that measures the knowledge of SSAS database, querying multidimensional analysis solutions, cube hierarchies, measures, dimensions, power BI…",
+    "adaptive_support": "No",
+    "remote_support": "Yes",
+    "duration": null,
+    "test_type": [
+      "Knowledge & Skills",
+      "Personality & Behaviour"
+    ]
+  },
+  {
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/sql-server-new/",
+    "name": "I want to hire a Senior Data Analyst with 5 years of experience and expertise in SQL, Excel and Python. The assessment can be 1-2 hour long",
+    "description": "SQL Server (New): Multi-choice test that measures the knowledge of basic SQL queries, creating and altering tables, filtering, grouping, aggregation in SQL and querying multiple…",
+    "adaptive_support": "No",
+    "remote_support": "Yes",
+    "duration": null,
+    "test_type": [
+      "Knowledge & Skills",
+      "Personality & Behaviour"
+    ]
+  },
+  {
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/automata-sql-new/",
+    "name": "I want to hire a Senior Data Analyst with 5 years of experience and expertise in SQL, Excel and Python. The assessment can be 1-2 hour long",
+    "description": "Automata - SQL (New): A simulated query writing test that measures the ability to write SQL queries to perform DDL, DML and DCL tasks.",
+    "adaptive_support": "No",
+    "remote_support": "Yes",
+    "duration": null,
+    "test_type": [
+      "Knowledge & Skills",
+      "Personality & Behaviour"
+    ]
+  },
+  {
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/python-new/",
+    "name": "I want to hire a Senior Data Analyst with 5 years of experience and expertise in SQL, Excel and Python. The assessment can be 1-2 hour long",
+    "description": "Python (New): Multi-choice test that measures the knowledge of Python programming, databases, modules and library.",
+    "adaptive_support": "No",
+    "remote_support": "Yes",
+    "duration": null,
+    "test_type": [
+      "Knowledge & Skills",
+      "Personality & Behaviour"
+    ]
+  },
+  {
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/tableau-new/",
+    "name": "I want to hire a Senior Data Analyst with 5 years of experience and expertise in SQL, Excel and Python. The assessment can be 1-2 hour long",
+    "description": "Tableau (New): Multi-choice test that measures the knowledge of how to use Tableau to prepare tables, create visualizations, perform calculations, apply filters and carry out…",
+    "adaptive_support": "No",
+    "remote_support": "Yes",
+    "duration": null,
+    "test_type": [
+      "Knowledge & Skills",
+      "Personality & Behaviour"
+    ]
+  },
+  {
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/microsoft-excel-365-new/",
+    "name": "I want to hire a Senior Data Analyst with 5 years of experience and expertise in SQL, Excel and Python. The assessment can be 1-2 hour long",
+    "description": "Microsoft Excel 365 (New): The Microsoft Excel 365 simulation evaluates ability to perform certain operations in a simulated environment of MS Excel, and includes the following topics…",
+    "adaptive_support": "No",
+    "remote_support": "Yes",
+    "duration": null,
+    "test_type": [
+      "Knowledge & Skills",
+      "Personality & Behaviour"
+    ]
+  },
+  {
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/microsoft-excel-365-essentials-new/",
+    "name": "I want to hire a Senior Data Analyst with 5 years of experience and expertise in SQL, Excel and Python. The assessment can be 1-2 hour long",
+    "description": "Microsoft Excel 365 - Essentials (New): The Microsoft Excel 365 - Essentials simulation evaluates ability to perform certain operations in a simulated environment of MS Excel, and includes the…",
+    "adaptive_support": "No",
+    "remote_support": "Yes",
+    "duration": null,
+    "test_type": [
+      "Knowledge & Skills",
+      "Personality & Behaviour"
+    ]
+  },
+  {
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/professional-7-0-solution-3958/",
+    "name": "I want to hire a Senior Data Analyst with 5 years of experience and expertise in SQL, Excel and Python. The assessment can be 1-2 hour long",
+    "description": "Professional + 7.0 Solution: Our Professional + 7.0 solution is designed for all non-managerial professional individual contributor positions, and includes SHL’s new innovative…",
+    "adaptive_support": "No",
+    "remote_support": "Yes",
+    "duration": null,
+    "test_type": [
+      "Knowledge & Skills",
+      "Personality & Behaviour",
+      "Cognitive Ability"
+    ]
+  },
+  {
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/professional-7-1-solution/",
+    "name": "I want to hire a Senior Data Analyst with 5 years of experience and expertise in SQL, Excel and Python. The assessment can be 1-2 hour long",
+    "description": "Professional + 7.1 (International): Our Professional + 7.1 solution is designed for all non-managerial professional individual contributor positions, and includes SHL’s new innovative…",
+    "adaptive_support": "No",
+    "remote_support": "Yes",
+    "duration": null,
+    "test_type": [
+      "Knowledge & Skills",
+      "Personality & Behaviour",
+      "Cognitive Ability"
+    ]
+  },
+  {
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/data-warehousing-concepts/",
+    "name": "I want to hire a Senior Data Analyst with 5 years of experience and expertise in SQL, Excel and Python. The assessment can be 1-2 hour long",
+    "description": "Data Warehousing Concepts: The Data Warehousing Concepts test measures knowledge of Data Warehousing. Designed for experienced users, this test covers the following topics: Big Data and…",
+    "adaptive_support": "No",
+    "remote_support": "Yes",
+    "duration": null,
+    "test_type": [
+      "Knowledge & Skills",
+      "Personality & Behaviour"
+    ]
+  }
+]
