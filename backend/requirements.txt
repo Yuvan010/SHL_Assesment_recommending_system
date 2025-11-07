@@ -1,9 +1,9 @@
 flask
+faiss-cpu
+sentence-transformers
+numpy
 pandas
 scikit-learn
-openpyxl
-numpy
-faiss-cpu
-openai
-google-generativeai
-langchain-groq
+tqdm
+requests
+beautifulsoup4
