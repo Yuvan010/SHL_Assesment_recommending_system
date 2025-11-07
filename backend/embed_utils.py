@@ -3,25 +3,33 @@ import json
 import numpy as np
 import faiss
 import requests
+import re
 
 def get_embeddings(texts):
     api_key = os.getenv("HF_TOKEN")
     if not api_key:
-        raise ValueError("Missing HF_API_KEY environment variable.")
-    
-    print("Generating embeddings via Hugging Face Inference API...")
+        raise ValueError("Missing HF_TOKEN environment variable.")
+
+    print("Generating embeddings via Hugging Face Router API...")
     response = requests.post(
         "https://router.huggingface.co/hf-inference/models/sentence-transformers/all-MiniLM-L6-v2",
-        headers={"Authorization": f"Bearer {api_key}"},
-        json={"inputs": texts}
+        headers={
+            "Authorization": f"Bearer {api_key}",
+            "Content-Type": "application/json",
+        },
+        json={"inputs": texts, "parameters": {"truncate": True}}
     )
 
     if response.status_code != 200:
         raise Exception(f"HF API error {response.status_code}: {response.text}")
 
     data = response.json()
-    if not isinstance(data, list):
-        raise Exception(f"Unexpected response format: {data}")
+
+    if isinstance(data, dict) and "error" in data:
+        raise Exception(f"HF API returned error: {data['error']}")
+
+    if isinstance(data[0][0], list):  # list of token vectors → average pooling
+        data = [np.mean(vec, axis=0) for vec in data]
 
     embeddings = np.array(data, dtype="float32")
     return embeddings
@@ -78,7 +86,6 @@ def llm_rerank(query, docs, topk=10):
         return docs[:topk]
 
     text = data["choices"][0]["message"]["content"]
-    import re
     numbers = re.findall(r"\d+", text)
     indices = [int(n) - 1 for n in numbers[:topk] if n.isdigit()]
     return [docs[i] for i in indices if 0 <= i < len(docs)]
