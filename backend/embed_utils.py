@@ -10,26 +10,22 @@ def get_embeddings(texts):
     api_key = os.getenv("HF_TOKEN")
     if not api_key:
         raise ValueError("Missing HF_TOKEN environment variable.")
-    
-    # Ensure the input is always a list
+
     if isinstance(texts, str):
         texts = [texts]
-    
-    # Input validation
+
     if not texts or len(texts) == 0:
         raise ValueError("texts cannot be empty")
     
     print("Generating embeddings via Hugging Face Inference API...")
-    
-    # Use the correct API endpoint for feature extraction (embeddings)
+ 
     url = "https://router.huggingface.co/hf-inference/models/sentence-transformers/all-MiniLM-L6-v2/pipeline/feature-extraction"
     
     headers = {
         "Authorization": f"Bearer {api_key}",
         "Content-Type": "application/json"
     }
-    
-    # Retry logic for API calls
+
     max_retries = 3
     for attempt in range(max_retries):
         try:
@@ -42,11 +38,9 @@ def get_embeddings(texts):
             
             if response.status_code == 200:
                 data = response.json()
-                # The response is directly a list of embeddings
                 embeddings = np.array(data, dtype="float32")
                 return embeddings
             elif response.status_code == 503:
-                # Model is loading, wait and retry
                 print(f"Model loading, waiting... (attempt {attempt + 1}/{max_retries})")
                 time.sleep(5)
                 continue
@@ -81,19 +75,14 @@ def load_or_build_index(index_path, meta_path):
     return None, None
 
 def semantic_search(index, meta, queries, topk=10):
-    # Input validation
     if not queries:
         raise ValueError("queries cannot be empty")
     
     if isinstance(queries, str):
         queries = [queries]
-    
-    # Ensure topk doesn't exceed available documents
     topk = min(topk, len(meta))
     
     q_emb = get_embeddings(queries)
-    
-    # Normalize embeddings
     norms = np.linalg.norm(q_emb, axis=1, keepdims=True)
     norms[norms == 0] = 1  # Avoid division by zero
     q_emb = q_emb / norms
@@ -132,8 +121,7 @@ def llm_rerank(query, docs, topk=10):
     prompt += "\nReturn the top 10 document numbers as a JSON list."
     
     print("Calling Groq LLM for reranking...")
-    
-    # Retry logic for LLM API
+   
     max_retries = 2
     for attempt in range(max_retries):
         try:
@@ -164,11 +152,8 @@ def llm_rerank(query, docs, topk=10):
             text = data["choices"][0]["message"]["content"]
             numbers = re.findall(r"\d+", text)
             indices = [int(n) - 1 for n in numbers[:topk] if n.isdigit()]
-            
-            # Validate indices and return reranked docs
             reranked = [docs[i] for i in indices if 0 <= i < len(docs)]
-            
-            # If reranking produced fewer results, fill with remaining docs
+
             if len(reranked) < topk:
                 remaining = [d for d in docs if d not in reranked]
                 reranked.extend(remaining[:topk - len(reranked)])
