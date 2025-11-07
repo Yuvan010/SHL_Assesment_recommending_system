@@ -3,38 +3,29 @@ import json
 import numpy as np
 import faiss
 import requests
-from sentence_transformers import SentenceTransformer
 
 def get_embeddings(texts):
-    try:
-        print("Generating local embeddings with 'all-MiniLM-L6-v2'...")
-        model = SentenceTransformer("all-MiniLM-L6-v2")
-        embs = model.encode(texts, convert_to_numpy=True, show_progress_bar=False)
-        return np.array(embs, dtype="float32")
-    except Exception:
-        print("Local model load failed, switching to Hugging Face Inference API...")
-        hf_token = os.getenv("HF_API_KEY")
-        if not hf_token:
-            raise ValueError("Missing HF_API_KEY environment variable.")
-        headers = {
-            "Authorization": f"Bearer {hf_token}",
-            "Content-Type": "application/json",
-        }
-        api_url = "https://router.huggingface.co/hf-inference/models/sentence-transformers/all-MiniLM-L6-v2"
-        embeddings = []
-        for text in texts:
-            payload = {"inputs": text}
-            response = requests.post(api_url, headers=headers, json=payload)
-            if response.status_code != 200:
-                raise Exception(f"HF API error {response.status_code}: {response.text}")
-            result = response.json()
-            if isinstance(result, dict) and "embedding" in result:
-                embeddings.append(result["embedding"])
-            elif isinstance(result, list) and isinstance(result[0], list):
-                embeddings.append(result[0])
-            else:
-                raise Exception(f"Unexpected HF API response: {result}")
-        return np.array(embeddings, dtype="float32")
+    api_key = os.getenv("HF_API_KEY")
+    if not api_key:
+        raise ValueError("Missing HF_API_KEY environment variable.")
+    
+    print("Generating embeddings via Hugging Face Inference API...")
+    response = requests.post(
+        "https://router.huggingface.co/hf-inference/models/sentence-transformers/all-MiniLM-L6-v2",
+        headers={"Authorization": f"Bearer {api_key}"},
+        json={"inputs": texts}
+    )
+
+    if response.status_code != 200:
+        raise Exception(f"HF API error {response.status_code}: {response.text}")
+
+    data = response.json()
+    if not isinstance(data, list):
+        raise Exception(f"Unexpected response format: {data}")
+
+    embeddings = np.array(data, dtype="float32")
+    return embeddings
+
 
 def load_or_build_index(index_path, meta_path):
     if os.path.exists(index_path) and os.path.exists(meta_path):
@@ -44,6 +35,7 @@ def load_or_build_index(index_path, meta_path):
         return index, meta
     print("No existing FAISS index found.")
     return None, None
+
 
 def semantic_search(index, meta, queries, topk=10):
     q_emb = get_embeddings(queries)
@@ -57,15 +49,18 @@ def semantic_search(index, meta, queries, topk=10):
         results.append(items)
     return results
 
+
 def llm_rerank(query, docs, topk=10):
     api_key = os.getenv("GROQ_API_KEY")
     if not api_key:
         raise ValueError("Missing GROQ_API_KEY environment variable.")
+
     headers = {"Authorization": f"Bearer {api_key}"}
     prompt = f"Rank these documents by how relevant they are to '{query}':\n\n"
     for i, d in enumerate(docs, 1):
         prompt += f"{i}. {d.get('title', '')}\n"
     prompt += "\nReturn the top 10 document numbers as a JSON list."
+
     print("Calling Groq LLM for reranking...")
     r = requests.post(
         "https://api.groq.com/openai/v1/chat/completions",
@@ -76,10 +71,12 @@ def llm_rerank(query, docs, topk=10):
             "temperature": 0,
         },
     )
+
     data = r.json()
     if "choices" not in data:
         print("Groq rerank error:", data)
         return docs[:topk]
+
     text = data["choices"][0]["message"]["content"]
     import re
     numbers = re.findall(r"\d+", text)
