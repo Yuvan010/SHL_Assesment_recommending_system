@@ -22,7 +22,7 @@ def get_embeddings(texts):
     print("Generating embeddings via Hugging Face Inference API...")
     
     # Use the correct API endpoint for feature extraction (embeddings)
-    url = "https://api-inference.huggingface.co/pipeline/feature-extraction/sentence-transformers/all-MiniLM-L6-v2"
+    url = "https://router.huggingface.co/hf-inference/models/sentence-transformers/all-MiniLM-L6-v2/pipeline/feature-extraction"
     
     headers = {
         "Authorization": f"Bearer {api_key}",
