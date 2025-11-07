@@ -34,12 +34,13 @@ I began with a simple baseline recommender model and gradually enhanced it throu
 ---
 
 ## Results
-| Stage | Model Type | Performance Score |
-|--------|-------------|-------------------|
-| Initial | Baseline Collaborative Filtering | 0.65 |
-| Final Optimized | Hybrid Recommender (LightFM + Content) | **0.84** |
 
-This improvement demonstrates how careful preprocessing, parameter tuning, and model blending can lead to a more reliable and scalable recommender system.
+📊 MODEL EVALUATION RESULTS
+-----------------------------
+Users Evaluated: 6
+Average Precision: 0.8649
+Average Recall: 0.963
+Average F1: 0.8396
 
 ---
 
