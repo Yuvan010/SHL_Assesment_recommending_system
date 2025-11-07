@@ -9,7 +9,7 @@ import requests
 # --------------------------
 HF_MODEL = "sentence-transformers/all-MiniLM-L6-v2"
 HF_TOKEN = os.getenv("HF_TOKEN")  # Set this in Render environment variables
-HF_API_URL = f"https://api-inference.huggingface.co/pipeline/feature-extraction/{HF_MODEL}"
+HF_API_URL = f"https://router.huggingface.co/hf-inference/models/{HF_MODEL}"
 HEADERS = {"Authorization": f"Bearer {HF_TOKEN}"} if HF_TOKEN else {}
 
 # --------------------------
