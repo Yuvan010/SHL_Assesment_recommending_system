@@ -10,30 +10,22 @@ def get_embeddings(texts):
     if not api_key:
         raise ValueError("Missing HF_TOKEN environment variable.")
 
-    print("Generating embeddings via Hugging Face Router API...")
-    response = requests.post(
-        "https://router.huggingface.co/hf-inference/models/sentence-transformers/all-MiniLM-L6-v2",
-        headers={
-            "Authorization": f"Bearer {api_key}",
-            "Content-Type": "application/json",
-        },
-        json={"inputs": texts, "parameters": {"truncate": True}}
-    )
+    print("Generating embeddings via Hugging Face Inference API...")
+    model_url = "https://router.huggingface.co/hf-inference/models/sentence-transformers/all-MiniLM-L6-v2"
+    embeddings = []
 
-    if response.status_code != 200:
-        raise Exception(f"HF API error {response.status_code}: {response.text}")
+    for text in texts:
+        payload = {"inputs": {"source_sentence": text, "sentences": [text]}}
+        response = requests.post(model_url, headers={"Authorization": f"Bearer {api_key}"}, json=payload)
+        if response.status_code != 200:
+            raise Exception(f"HF API error {response.status_code}: {response.text}")
+        result = response.json()
+        if isinstance(result, list) and isinstance(result[0], list):
+            embeddings.append(result[0])
+        else:
+            raise Exception(f"Unexpected response format: {result}")
 
-    data = response.json()
-
-    if isinstance(data, dict) and "error" in data:
-        raise Exception(f"HF API returned error: {data['error']}")
-
-    if isinstance(data[0][0], list):  # list of token vectors → average pooling
-        data = [np.mean(vec, axis=0) for vec in data]
-
-    embeddings = np.array(data, dtype="float32")
-    return embeddings
-
+    return np.array(embeddings, dtype="float32")
 
 def load_or_build_index(index_path, meta_path):
     if os.path.exists(index_path) and os.path.exists(meta_path):
@@ -43,7 +35,6 @@ def load_or_build_index(index_path, meta_path):
         return index, meta
     print("No existing FAISS index found.")
     return None, None
-
 
 def semantic_search(index, meta, queries, topk=10):
     q_emb = get_embeddings(queries)
@@ -56,7 +47,6 @@ def semantic_search(index, meta, queries, topk=10):
             items.append(meta[idx])
         results.append(items)
     return results
-
 
 def llm_rerank(query, docs, topk=10):
     api_key = os.getenv("GROQ_API_KEY")
