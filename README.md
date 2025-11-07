@@ -37,10 +37,10 @@ I began with a simple baseline recommender model and gradually enhanced it throu
 
 📊 MODEL EVALUATION RESULTS
 -----------------------------
-Users Evaluated: 6
-Average Precision: 0.8649
-Average Recall: 0.963
-Average F1: 0.8396
+-Users Evaluated: 6
+-Average Precision: 0.8649
+-Average Recall: 0.963
+-Average F1: 0.8396
 
 ---
 
